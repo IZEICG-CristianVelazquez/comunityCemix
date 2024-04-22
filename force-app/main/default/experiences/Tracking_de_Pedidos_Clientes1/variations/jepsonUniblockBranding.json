@@ -1,0 +1,13 @@
+{
+  "componentVariants" : [ {
+    "id" : "afc4e9fe-d168-492c-8f24-d14e8a23c7d9",
+    "propertyOverrides" : {
+      "activeBrandingSetId" : "4a7a96a2-30d6-4e25-a4ad-58bd5f384112"
+    },
+    "targetId" : "8b49594b-0624-41ee-a9fd-f9099816bda4",
+    "type" : "componentVariant"
+  } ],
+  "developerName" : "Jepson_Uniblock_Branding",
+  "id" : "d0a59041-f568-412b-abee-adc82f3df58c",
+  "type" : "experienceVariation"
+}

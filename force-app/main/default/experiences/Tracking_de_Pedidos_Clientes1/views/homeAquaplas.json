@@ -1,0 +1,66 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "2397cc5c-4593-4f75-88b0-aa78e84d508b",
+  "label" : "Home Aquaplas",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "bannerImageUrl" : "https://cemix-prod.file.force.com/servlet/servlet.ImageServer?id=0155c000006LPDp&oid=00D80000000dndp&lastMod=1695344567000",
+        "buttonLabel" : "",
+        "buttonUrl" : "",
+        "buttonVariant" : "brand",
+        "description" : "",
+        "descriptionColor" : "#fff",
+        "descriptionSize" : "regular",
+        "height" : 350,
+        "textAlign" : "center",
+        "textHeight" : 150,
+        "textOverlayBackground" : "rgba(0,0,0,0.4)",
+        "textPosition" : "overlay",
+        "title" : "",
+        "titleColor" : "#fff",
+        "titleSize" : "large"
+      },
+      "componentName" : "cloudx_cms:SS_uiImageBanner",
+      "id" : "52a3ebfa-0355-4891-b8b1-58e5629e2145",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "32502b6a-a1db-436a-81e6-c6c9439c3741",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "281ae404-9e6c-4aa0-beb7-d43d7a64e90f",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "e78923e5-0768-451e-8676-d768fa993297",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "835df246-98e5-44dc-aa26-459c67a85169",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "c70ac003-bdc2-4229-8376-fbc741ade9fb",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5fccdec7-35d1-4a82-8939-528781e0ae65",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "home"
+}

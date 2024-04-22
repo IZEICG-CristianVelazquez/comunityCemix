@@ -1,0 +1,39 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "26178153-1aff-41e3-878e-297c961a6c12",
+  "label" : "Productos Convenio Related List",
+  "regions" : [ {
+    "id" : "3aaf8746-0b92-4d5d-912c-a6acb18a5bae",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customTitle" : "",
+        "parentRecordId" : "{!recordId}",
+        "relatedListName" : "{!relationshipApiName}",
+        "showBreadCrumbs" : false,
+        "showCustomTitle" : false,
+        "showManualRefreshButton" : false,
+        "showRowNumbers" : true
+      },
+      "componentName" : "forceCommunity:relatedList",
+      "id" : "99888977-ee22-4248-91b0-2efc11099033",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6af055d9-0049-43e5-bdb2-048fac77b6fa",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "90ff238b-317b-420b-a7fa-aba304a6f9d2",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "relatedlist-a1X"
+}

@@ -1,0 +1,23 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "10f92c17-9a90-430f-a2cd-f04a59a308d2",
+  "label" : "Price Book Entry List",
+  "regions" : [ {
+    "id" : "12709718-4331-462f-ad51-71f6245df947",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "ec3d6a8b-f53c-4b2f-ad3e-f2b6c37cd2f3",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "ecc1dbaf-d54a-4e90-a592-679260e9d9b0",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "list-01u"
+}

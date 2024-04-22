@@ -1,0 +1,13 @@
+{
+  "componentVariants" : [ {
+    "id" : "4b213ac6-e913-41fa-8bda-5c4ce8f2184a",
+    "propertyOverrides" : {
+      "activeBrandingSetId" : "6e499047-832b-4423-88db-75d3ea587170"
+    },
+    "targetId" : "8b49594b-0624-41ee-a9fd-f9099816bda4",
+    "type" : "componentVariant"
+  } ],
+  "developerName" : "Jepson_Cemix_Branding",
+  "id" : "6d7ebb96-b707-4b36-9064-ecc9a0521563",
+  "type" : "experienceVariation"
+}

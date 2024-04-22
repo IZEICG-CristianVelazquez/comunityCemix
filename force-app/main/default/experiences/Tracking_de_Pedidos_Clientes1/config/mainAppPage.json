@@ -1,0 +1,11 @@
+{
+  "cmsSettings" : { },
+  "currentThemeId" : "8b49594b-0624-41ee-a9fd-f9099816bda4",
+  "headMarkup" : "<link rel=\"shortcut icon\" href=\"https://cemix-prod.my.site.com/trackingdepedidos/trackingdepedidos/favicon.ico\" />",
+  "id" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "isLockerServiceEnabled" : true,
+  "isRelaxedCSPLevel" : false,
+  "label" : "main",
+  "templateName" : "CPT Community Template",
+  "type" : "appPage"
+}

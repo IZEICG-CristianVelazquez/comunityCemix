@@ -1,0 +1,161 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:dynamicLayout",
+  "dataProviders" : [ ],
+  "id" : "35c86f00-7406-41d3-a02c-52db0f499596",
+  "label" : "Pedidos",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgba(0,0,0,0)",
+        "backgroundOverlay" : "rgba(0,0,0,0.5)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "b9b084a9-1e99-48ad-a0cf-845eb4a67ee1",
+          "columns" : [ {
+            "UUID" : "e5649f71-6a5a-4533-926a-fe1bc9921eac",
+            "columnKey" : "1",
+            "columnName" : "Column 1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "b9b084a9-1e99-48ad-a0cf-845eb4a67ee1",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "tabsetConfig" : {
+              "UUID" : "d7779b0f-a5e3-4489-88b8-1499efb3fd02",
+              "activeTab" : "",
+              "tabs" : [ {
+                "UUID" : "9b70274a-ec07-4325-a6b1-8aced7a6ee22",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "1",
+                "tabName" : "Pedidos abiertos"
+              }, {
+                "UUID" : "878a08a7-7064-44fe-b19c-99b1f91d66c8",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "2",
+                "tabName" : "Historial de pedidos"
+              }, {
+                "UUID" : "764df43a-ac24-4388-8b5a-272ca5a83087",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "56dcf",
+                "tabName" : "Pedidos bloqueados"
+              } ],
+              "useOverflowMenu" : false
+            }
+          },
+          "componentName" : "forceCommunity:tabset",
+          "id" : "d7779b0f-a5e3-4489-88b8-1499efb3fd02",
+          "regions" : [ {
+            "components" : [ {
+              "componentAttributes" : {
+                "fieldSetName" : "LV_Portal_Clientes",
+                "fieldsToSearch" : "Pedido_SAP__c,Orden_de_Compra__c,OrderNumber",
+                "filters" : "Pedido_SAP__c != null and EffectiveDate = LAST_N_DAYS:365 AND Estatus_General_Sap__c IN ('En proceso','Pendiente') AND Status != 'Bloqueado'",
+                "limit" : 10,
+                "objectName" : "Order",
+                "recordTypes" : "",
+                "title" : "Pedidos"
+              },
+              "componentName" : "c:customListView",
+              "id" : "b48beaf0-eb43-42da-8e85-b4820f9c0f58",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "9b70274a-ec07-4325-a6b1-8aced7a6ee22",
+            "regionLabel" : "Pedidos abiertos",
+            "regionName" : "1",
+            "renditionMap" : { },
+            "type" : "region"
+          }, {
+            "components" : [ {
+              "componentAttributes" : {
+                "fieldSetName" : "LV_Portal_Clientes",
+                "fieldsToSearch" : "Pedido_SAP__c,Orden_de_Compra__c",
+                "filters" : "Pedido_SAP__c != null AND Estatus_General_Sap__c ='Concluido' and EffectiveDate = LAST_N_DAYS:365",
+                "limit" : 10,
+                "objectName" : "Order",
+                "recordTypes" : "",
+                "title" : "Historial de Pedidos"
+              },
+              "componentName" : "c:customListView",
+              "id" : "2a64e6d9-5989-4355-a335-43121f4b2bcd",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "878a08a7-7064-44fe-b19c-99b1f91d66c8",
+            "regionLabel" : "Historial de pedidos",
+            "regionName" : "2",
+            "renditionMap" : { },
+            "type" : "region"
+          }, {
+            "components" : [ {
+              "componentAttributes" : {
+                "fieldSetName" : "LV_Portal_Clientes",
+                "fieldsToSearch" : "Status",
+                "filters" : "Status = 'Bloqueado'",
+                "limit" : 10,
+                "objectName" : "Order",
+                "recordTypes" : "",
+                "showFilter" : false,
+                "title" : "Pedidos"
+              },
+              "componentName" : "c:customListView",
+              "id" : "f5fb8941-e555-4fdf-bfb2-2668bef1374b",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "764df43a-ac24-4388-8b5a-272ca5a83087",
+            "regionLabel" : "Pedidos bloqueados",
+            "regionName" : "56dcf",
+            "renditionMap" : { },
+            "type" : "region"
+          } ],
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "e5649f71-6a5a-4533-926a-fe1bc9921eac",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "8321e451-b818-489c-bc91-398ed0acea18",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Pedidos"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "adeec218-6a9e-4fd1-a1ea-71b5624e4c6a",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "85069e1d-43ee-4066-be4b-93cd7bf5c815",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-pedidos"
+}

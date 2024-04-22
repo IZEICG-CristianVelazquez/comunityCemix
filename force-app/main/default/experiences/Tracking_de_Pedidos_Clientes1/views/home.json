@@ -1,0 +1,66 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:sldsTwoCol84Layout",
+  "dataProviders" : [ ],
+  "id" : "3ec269b2-a34a-4617-8983-e83e473ceecc",
+  "label" : "Home",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "bannerBackgroundColor" : "",
+        "bannerPosition" : "bottom",
+        "bannerSizePercent" : 35,
+        "borderRadius" : 20,
+        "boxShadow" : true,
+        "haveBanner" : false,
+        "iconBackgroundColor" : "rgb(255,255,255)",
+        "iconSize" : "medium",
+        "noImageColor" : "rgb(212, 212, 212)",
+        "overlay" : "rgba(0,0,0,0.01)",
+        "templateType" : "icon",
+        "tileMenuEditor" : "Seguimiento_Facturas1",
+        "titleColor" : "",
+        "titleFontSize" : "medium",
+        "titleHorizontalAlign" : "center"
+      },
+      "componentName" : "community_navigation:tileMenu",
+      "id" : "1e5feb4f-8017-43e9-ba0a-b65af20b36e8",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "0475750a-8ed0-492b-b53a-5e65197344ac",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "b8941cab-9ff2-405a-b7fb-7cc82354964f",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "66a734ab-c61a-4eaf-b6ef-eb800be19737",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "174de4ed-066e-4b8f-8b1b-1ee2dad3f9ae",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "5ea2b214-72d4-418e-bd35-1303d672551b",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a79c866b-685a-4059-91a2-9126b0fad600",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Home",
+  "type" : "view",
+  "viewType" : "home"
+}

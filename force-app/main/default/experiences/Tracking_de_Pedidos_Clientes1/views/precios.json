@@ -1,0 +1,133 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:dynamicLayout",
+  "dataProviders" : [ ],
+  "id" : "11be377a-1f70-48ef-ad7f-ec4df03e5307",
+  "label" : "Precios",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgba(0,0,0,0)",
+        "backgroundOverlay" : "rgba(0,0,0,0.5)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "901d766a-23bb-43f6-816f-4cc691ec34bb",
+          "columns" : [ {
+            "UUID" : "487fb9b0-dda9-41dc-8402-a6a1456a3215",
+            "columnKey" : "1",
+            "columnName" : "Column 1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "901d766a-23bb-43f6-816f-4cc691ec34bb",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "tabsetConfig" : {
+              "UUID" : "ec9f36cb-45b3-496b-9852-c0f599b10be5",
+              "activeTab" : "",
+              "tabs" : [ {
+                "UUID" : "4894e273-0748-40fe-b1f4-e18ad8dfe8c7",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "1",
+                "tabName" : "Lista de precios"
+              }, {
+                "UUID" : "a581325c-f01b-494f-bd53-63353870da0b",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "2",
+                "tabName" : "Lista Convenios"
+              } ],
+              "useOverflowMenu" : false
+            }
+          },
+          "componentName" : "forceCommunity:tabset",
+          "id" : "ec9f36cb-45b3-496b-9852-c0f599b10be5",
+          "regions" : [ {
+            "components" : [ {
+              "componentAttributes" : {
+                "fieldSetName" : "LV_Portal_Clientes",
+                "fieldsToSearch" : "",
+                "filters" : "Cuenta__c in( select id from Account)",
+                "limit" : 10,
+                "objectName" : "Pricebook2",
+                "recordTypes" : "",
+                "title" : "Lista Precios"
+              },
+              "componentName" : "c:customListView",
+              "id" : "58a9b090-fc2f-4342-9f8a-2a22e832790a",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "4894e273-0748-40fe-b1f4-e18ad8dfe8c7",
+            "regionLabel" : "Lista de precios",
+            "regionName" : "1",
+            "renditionMap" : { },
+            "type" : "region"
+          }, {
+            "components" : [ {
+              "componentAttributes" : {
+                "allowExport" : true,
+                "fieldSetName" : "LV_Portal_Clientes",
+                "fieldsToSearch" : "Name,CMXConv_NoSapConvenio__c",
+                "filters" : "CMXConv_NoSapConvenio__c != null",
+                "limit" : 10,
+                "objectName" : "Convenios__c",
+                "recordTypes" : "",
+                "title" : "Convenios"
+              },
+              "componentName" : "c:customListView",
+              "id" : "4c92396e-4a0f-4214-b867-6e66954264a0",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "a581325c-f01b-494f-bd53-63353870da0b",
+            "regionLabel" : "Lista Convenios",
+            "regionName" : "2",
+            "renditionMap" : { },
+            "type" : "region"
+          } ],
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "487fb9b0-dda9-41dc-8402-a6a1456a3215",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b9771b2e-e07d-40b0-86c2-956020626020",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Precios"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "e6893da6-3f51-40d4-b0e4-830e2d718a5b",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "33d46ea1-15ec-483c-a365-f35f489d1d10",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-precios"
+}

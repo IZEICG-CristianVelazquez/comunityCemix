@@ -1,0 +1,53 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0051A00000DdInGQAV",
+      "createdByName": "Soporte Salesforce",
+      "createdDate": "2021-03-10T22:49:54.000Z",
+      "fileName": "networks/Uniblock.network",
+      "fullName": "Uniblock",
+      "id": "0DB0y0000004TpBGAU",
+      "lastModifiedById": "0051A00000DdInGQAV",
+      "lastModifiedByName": "Soporte Salesforce",
+      "lastModifiedDate": "2021-03-10T22:57:18.000Z",
+      "type": "Network"
+    },
+    {
+      "createdById": "0051A00000DdInGQAV",
+      "createdByName": "Soporte Salesforce",
+      "createdDate": "2021-06-17T19:45:24.000Z",
+      "fileName": "networks/Tracking de Pedidos - Clientes.network",
+      "fullName": "Tracking de Pedidos - Clientes",
+      "id": "0DB0y0000004TpQGAU",
+      "lastModifiedById": "0051A00000DdInGQAV",
+      "lastModifiedByName": "Soporte Salesforce",
+      "lastModifiedDate": "2024-04-15T17:20:32.000Z",
+      "type": "Network"
+    },
+    {
+      "createdById": "0051A00000DdInGQAV",
+      "createdByName": "Soporte Salesforce",
+      "createdDate": "2021-03-09T00:22:15.000Z",
+      "fileName": "networks/Tracking de Pedidos.network",
+      "fullName": "Tracking de Pedidos",
+      "id": "0DB0y0000004Tp6GAE",
+      "lastModifiedById": "0051A00000DdInGQAV",
+      "lastModifiedByName": "Soporte Salesforce",
+      "lastModifiedDate": "2021-03-16T17:09:59.000Z",
+      "type": "Network"
+    },
+    {
+      "createdById": "0051A00000DdInGQAV",
+      "createdByName": "Soporte Salesforce",
+      "createdDate": "2023-07-05T20:11:55.000Z",
+      "fileName": "networks/Prueba.network",
+      "fullName": "Prueba",
+      "id": "0DB5c0000010x3EGAQ",
+      "lastModifiedById": "0051A00000DdInGQAV",
+      "lastModifiedByName": "Soporte Salesforce",
+      "lastModifiedDate": "2023-07-05T20:11:58.000Z",
+      "type": "Network"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "9c19da1e-5998-4e8c-8af8-a8fd0314f6fa",
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "configurationTags" : [ ],
+  "devName" : "custom_facturacin__c",
+  "id" : "bae146b6-99ba-4991-be7d-bb175bcf1560",
+  "label" : "Facturación",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-facturacin",
+  "type" : "route",
+  "urlPrefix" : "facturacion"
+}

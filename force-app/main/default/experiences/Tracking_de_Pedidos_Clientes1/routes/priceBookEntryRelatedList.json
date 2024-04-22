@@ -1,0 +1,11 @@
+{
+  "activeViewId" : "10baa600-c70b-4d08-a416-ddaefc407335",
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "configurationTags" : [ ],
+  "devName" : "Price_Book_Entry_Related_List__c",
+  "id" : "bd983e06-cd02-4d7a-82f8-a84a5711b920",
+  "label" : "Price Book Entry Related List",
+  "routeType" : "relatedlist-01u",
+  "type" : "route",
+  "urlPrefix" : "pricebookentry"
+}

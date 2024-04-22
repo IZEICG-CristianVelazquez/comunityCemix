@@ -1,0 +1,190 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:dynamicLayout",
+  "dataProviders" : [ ],
+  "id" : "1564b73a-7910-4bfc-bb54-18cdfc9ebca4",
+  "label" : "Marketing Uniblock",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgba(0,0,0,0)",
+        "backgroundOverlay" : "rgba(0,0,0,0.5)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "acb2e109-b409-4e3f-affe-a8658ce8eadc",
+          "columns" : [ {
+            "UUID" : "eaa4c989-1c4e-4cb9-a766-9996f8925776",
+            "columnKey" : "1",
+            "columnName" : "Column 1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "acb2e109-b409-4e3f-affe-a8658ce8eadc",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "tabsetConfig" : {
+              "UUID" : "8c3ab1bc-2b1c-41dc-9816-a98b967d2c01",
+              "activeTab" : "",
+              "tabs" : [ {
+                "UUID" : "9ea6d756-9071-4b56-9fae-8712cc6537fa",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "1",
+                "tabName" : "Productos Uniblock"
+              }, {
+                "UUID" : "b48a4433-e365-4338-96e7-4329e5a2009f",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "2",
+                "tabName" : "Contáctanos"
+              } ],
+              "useOverflowMenu" : false
+            }
+          },
+          "componentName" : "forceCommunity:tabset",
+          "id" : "8c3ab1bc-2b1c-41dc-9816-a98b967d2c01",
+          "regions" : [ {
+            "components" : [ {
+              "componentAttributes" : {
+                "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: rgb(136, 136, 136); font-size: 18px;\">Visita nuestra página para conocer más sobre nuestros productos</span></p><p style=\"text-align: center;\"><span style=\"color: rgb(136, 136, 136); font-size: 18px;\">así como también nuestros videos tutoriales para todo tipo de proyecto en tu obra.&nbsp;</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p>"
+              },
+              "componentName" : "forceCommunity:richTextInline",
+              "id" : "83830f42-77c5-4b37-9a69-69212b574a51",
+              "renditionMap" : { },
+              "type" : "component"
+            }, {
+              "componentAttributes" : {
+                "autoPlay" : false,
+                "autoPlayInterval" : 2000,
+                "controlsAlignment" : "center",
+                "controlsPosition" : "bottom",
+                "datasource" : "carousel-object",
+                "datasourceInput" : "CRSL - 00023",
+                "showControls" : true,
+                "slidesPerPage" : 5,
+                "title" : "",
+                "titleAlign" : "left",
+                "titleSize" : "large"
+              },
+              "componentName" : "cloudx_cms:SS_cmsCarousel",
+              "id" : "f80d3316-d26e-4102-a0bc-d0bdc6c48df2",
+              "renditionMap" : { },
+              "type" : "component"
+            }, {
+              "componentAttributes" : {
+                "richTextValue" : "<p style=\"text-align: center;\"><a href=\"https://www.uniblock.com.mx/productos-para-la-construccion-en-monterrey.html\" rel=\"noopener noreferrer\" target=\"_blank\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.ver_mas1.1}\" style=\"width: 329.156px; height: 62.1719px;\"></a></p>"
+              },
+              "componentName" : "forceCommunity:richTextInline",
+              "id" : "cc3a3427-f8b1-474d-b62f-abe1dbe3c3f8",
+              "renditionMap" : { },
+              "type" : "component"
+            }, {
+              "componentAttributes" : {
+                "autoPlay" : false,
+                "autoPlayInterval" : 2000,
+                "controlsAlignment" : "center",
+                "controlsPosition" : "bottom",
+                "datasource" : "carousel-object",
+                "datasourceInput" : "CRSL - 00018",
+                "showControls" : true,
+                "slidesPerPage" : 1,
+                "title" : "",
+                "titleAlign" : "left",
+                "titleSize" : "large"
+              },
+              "componentName" : "cloudx_cms:SS_cmsCarousel",
+              "id" : "4f5b50c4-12f9-42a1-a91a-45497d3278f2",
+              "renditionMap" : { },
+              "type" : "component"
+            }, {
+              "componentAttributes" : {
+                "richTextValue" : "<p style=\"text-align: center;\">&nbsp;&nbsp;<a href=\"https://www.facebook.com/UniblockMx\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.FACEBOOK.1}\" style=\"width: 50px; height: 50px;\"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.linkedin.com/company/uniblock/?viewAsMember=true\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.LINKEDIN.1}\" style=\"width: 50px; height: 50px;\"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.uniblock.com.mx/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.PAGINA_WEB.1}\" style=\"width: 50px; height: 49.9844px;\"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.instagram.com/uniblockmx/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.INSTAGRAM.1}\" style=\"width: 50px; height: 50px;\"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.youtube.com/@uniblock3928\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.YOUTUBE.1}\" style=\"width: 50px; height: 50px;\"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+              },
+              "componentName" : "forceCommunity:richTextInline",
+              "id" : "eb7b44dd-19c3-48f9-aaaa-1af882f0bafe",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "9ea6d756-9071-4b56-9fae-8712cc6537fa",
+            "regionLabel" : "Productos Uniblock",
+            "regionName" : "1",
+            "renditionMap" : { },
+            "type" : "region"
+          }, {
+            "components" : [ {
+              "componentAttributes" : {
+                "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Contáctanos para tu obra o proyecto y solicita material POP o material de apoyo</strong></p>"
+              },
+              "componentName" : "forceCommunity:richTextInline",
+              "id" : "c23b8360-db3e-4a6c-9d82-b8b60ea7c0b6",
+              "renditionMap" : { },
+              "type" : "component"
+            }, {
+              "componentAttributes" : {
+                "autoPlay" : false,
+                "autoPlayInterval" : 2000,
+                "controlsAlignment" : "center",
+                "controlsPosition" : "bottom",
+                "datasource" : "carousel-object",
+                "datasourceInput" : "CRSL - 00020",
+                "showControls" : true,
+                "slidesPerPage" : 2,
+                "title" : "",
+                "titleAlign" : "left",
+                "titleSize" : "large"
+              },
+              "componentName" : "cloudx_cms:SS_cmsCarousel",
+              "id" : "6070dffd-2595-477f-acf1-dade09a00975",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "b48a4433-e365-4338-96e7-4329e5a2009f",
+            "regionLabel" : "Contáctanos",
+            "regionName" : "2",
+            "renditionMap" : { },
+            "type" : "region"
+          } ],
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "eaa4c989-1c4e-4cb9-a766-9996f8925776",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "583a93dd-262c-4445-a4db-ebb321c9470a",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Marketing"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "3f65fe09-f5ff-4af1-ba19-955585fc630f",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a4adf17f-718d-4fd4-a37c-fa8e33ea8162",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-marketing"
+}

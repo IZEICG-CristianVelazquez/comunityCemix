@@ -1,0 +1,13 @@
+{
+  "componentVariants" : [ {
+    "id" : "6af37069-8ef7-4d30-819e-912490f5268f",
+    "propertyOverrides" : {
+      "activeViewId" : "774719a2-903a-4a8c-a976-11c2ad717a0f"
+    },
+    "targetId" : "fb3def80-21d8-4712-8ea1-051d6b5077a8",
+    "type" : "componentVariant"
+  } ],
+  "developerName" : "Facturas_Detail_Facturas_Clientes_Page",
+  "id" : "ba9a5087-702e-4e7e-bc00-40fbb87c16a0",
+  "type" : "experienceVariation"
+}

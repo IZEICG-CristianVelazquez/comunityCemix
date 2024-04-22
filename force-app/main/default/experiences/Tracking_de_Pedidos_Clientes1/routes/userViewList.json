@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "29c7d7d4-bc28-4856-a4b0-dec710402ab1",
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "configurationTags" : [ ],
+  "devName" : "UserView_List__c",
+  "id" : "87f49842-f723-4131-921a-e3bc5daae4fb",
+  "label" : "UserView List",
+  "objectApiName" : "cgcloud__User_View__c",
+  "routeType" : "list-a81",
+  "type" : "route",
+  "urlPrefix" : "user-view"
+}

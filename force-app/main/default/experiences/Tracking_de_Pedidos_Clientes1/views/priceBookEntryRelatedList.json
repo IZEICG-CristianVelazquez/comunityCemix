@@ -1,0 +1,39 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "10baa600-c70b-4d08-a416-ddaefc407335",
+  "label" : "Price Book Entry Related List",
+  "regions" : [ {
+    "id" : "9ff749a0-cd42-4e60-b28e-3697de1d4a86",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customTitle" : "",
+        "parentRecordId" : "{!recordId}",
+        "relatedListName" : "{!relationshipApiName}",
+        "showBreadCrumbs" : true,
+        "showCustomTitle" : false,
+        "showManualRefreshButton" : true,
+        "showRowNumbers" : true
+      },
+      "componentName" : "forceCommunity:relatedList",
+      "id" : "828184f4-6243-4cde-98cf-3a43cc889f83",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c6da9480-c87b-4a1e-b924-f1dac0ed6629",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "f185d203-cbec-4597-9573-d2e4e2d439f9",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "relatedlist-01u"
+}

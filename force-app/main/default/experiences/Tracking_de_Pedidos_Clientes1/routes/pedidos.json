@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "35c86f00-7406-41d3-a02c-52db0f499596",
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "configurationTags" : [ ],
+  "devName" : "Pedidos__c",
+  "id" : "b70e2593-2a14-47c7-9c97-c3a70904b0c4",
+  "label" : "Pedidos",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-pedidos",
+  "type" : "route",
+  "urlPrefix" : "pedidos"
+}

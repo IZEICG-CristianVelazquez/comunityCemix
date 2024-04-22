@@ -1,0 +1,70 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "046aa12d-ece7-4b81-99d8-14291884a4f6",
+  "label" : "Price Book Detail",
+  "regions" : [ {
+    "id" : "8356c9c9-bd5b-4ad8-881b-02169b10217d",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "recordId" : "{!recordId}"
+      },
+      "componentName" : "forceCommunity:recordHeadline",
+      "id" : "d80557a8-7d9f-4eeb-a9c0-390d741c0b30",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "defaultSortDirection" : "asc",
+        "fieldSet" : "LV_Portal_Clientes",
+        "filters" : "isActive = true",
+        "iconStyle" : "utility:connected_apps",
+        "limit" : "10",
+        "parentField" : "Pricebook2Id",
+        "recordTypes" : "",
+        "relatedObjectName" : "PricebookEntry",
+        "secondParentField" : "",
+        "secondRelatedObjectName" : "",
+        "showList" : false,
+        "sortedBy" : "",
+        "title" : "Productos",
+        "urlOverrides" : ""
+      },
+      "componentName" : "c:RelatedListComponent",
+      "id" : "22fc8138-96b9-49fd-88cc-6e6ef7181391",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "224c76a0-84d1-4469-8fc7-9a350d0fc7e6",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "eb40048f-e9e7-41c7-b3e3-6117c5d122fa",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "{!Record._Object}: {!Record._Title}"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "92d8336a-fb9c-49c4-99b9-3ce6dae410bf",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "c727d048-daf5-45bc-8a59-a8f9754d9563",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "detail-01s"
+}

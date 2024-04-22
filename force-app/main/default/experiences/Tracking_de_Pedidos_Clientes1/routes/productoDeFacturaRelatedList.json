@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "dcb9144d-9aa4-4763-8dd8-d627a78cb947",
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "configurationTags" : [ ],
+  "devName" : "Producto_de_factura_Related_List__c",
+  "id" : "4b585e6c-6e02-47b9-800a-97fe77c7c6f5",
+  "label" : "Producto de factura Related List",
+  "objectApiName" : "Producto__c",
+  "routeType" : "relatedlist-a2A",
+  "type" : "route",
+  "urlPrefix" : "producto"
+}

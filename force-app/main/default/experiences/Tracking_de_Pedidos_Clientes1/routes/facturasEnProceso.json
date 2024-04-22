@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "20e6362e-f1b3-4c50-99c4-fa3273fc8662",
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "configurationTags" : [ ],
+  "devName" : "Facturas_en_proceso__c",
+  "id" : "4a8b3fb7-0290-429b-aa27-62febd9e7bc2",
+  "label" : "Facturas en proceso",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-facturas-en-proceso",
+  "type" : "route",
+  "urlPrefix" : "facturas-en-proceso"
+}

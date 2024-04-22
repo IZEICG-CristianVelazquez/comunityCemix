@@ -1,0 +1,13 @@
+{
+  "componentVariants" : [ {
+    "id" : "4a7c4d49-5273-487b-8b16-72c7e443a800",
+    "propertyOverrides" : {
+      "activeBrandingSetId" : "802d1f22-3f90-4a76-9372-adffcec395ee"
+    },
+    "targetId" : "8b49594b-0624-41ee-a9fd-f9099816bda4",
+    "type" : "componentVariant"
+  } ],
+  "developerName" : "Jepson_Aquaplas_Branding",
+  "id" : "48302550-0f07-43d3-81eb-9e94d7634de2",
+  "type" : "experienceVariation"
+}

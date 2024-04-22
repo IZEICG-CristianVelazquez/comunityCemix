@@ -1,0 +1,66 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:sldsTwoCol84Layout",
+  "dataProviders" : [ ],
+  "id" : "3bb171fe-d038-489d-8dd8-243a44274c13",
+  "label" : "Home (1)",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "bannerBackgroundColor" : "",
+        "bannerPosition" : "bottom",
+        "bannerSizePercent" : 35,
+        "borderRadius" : 20,
+        "boxShadow" : true,
+        "haveBanner" : false,
+        "iconBackgroundColor" : "rgb(255,255,255)",
+        "iconSize" : "medium",
+        "noImageColor" : "rgb(212, 212, 212)",
+        "overlay" : "rgba(0,0,0,0.01)",
+        "templateType" : "icon",
+        "tileMenuEditor" : "Seguimiento_Facturas1",
+        "titleColor" : "",
+        "titleFontSize" : "medium",
+        "titleHorizontalAlign" : "center"
+      },
+      "componentName" : "community_navigation:tileMenu",
+      "id" : "383ddcff-bed5-41ab-be26-58f136d82dc7",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "ff6d8c33-4b29-4a22-8926-033a30240f91",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "a8744249-e4f9-4642-ad90-f3d21198b2ce",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "af061776-214d-43de-af38-ece4cd805596",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "a8aee7d9-65ee-49a2-acc8-3d11145a568b",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "b3b23093-ffd4-4a31-969e-ba962183e452",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f22ecab6-b555-4a16-a05f-c7f26eb6c78b",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Home",
+  "type" : "view",
+  "viewType" : "home"
+}

@@ -1,0 +1,146 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:dynamicLayout",
+  "dataProviders" : [ ],
+  "id" : "d017c535-74d3-4a02-9123-b759cd3a4036",
+  "label" : "Marketing Aquaplas",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgba(0,0,0,0)",
+        "backgroundOverlay" : "rgba(0,0,0,0.5)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "7bd429ee-df3c-4bad-a6f1-6c83b144073e",
+          "columns" : [ {
+            "UUID" : "65d01b42-b75d-4ee1-821c-4f9afdc77cc0",
+            "columnKey" : "1",
+            "columnName" : "Column 1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "7bd429ee-df3c-4bad-a6f1-6c83b144073e",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "tabsetConfig" : {
+              "UUID" : "8035c04b-318e-4805-8550-7b72c498be0c",
+              "activeTab" : "",
+              "tabs" : [ {
+                "UUID" : "7d043804-6115-4bf4-b802-0696efaafefc",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "1",
+                "tabName" : "Productos"
+              }, {
+                "UUID" : "2d409a7a-5c2b-4068-8e23-70ebc0a6f5e5",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "2",
+                "tabName" : "Digital"
+              } ],
+              "useOverflowMenu" : false
+            }
+          },
+          "componentName" : "forceCommunity:tabset",
+          "id" : "8035c04b-318e-4805-8550-7b72c498be0c",
+          "regions" : [ {
+            "components" : [ {
+              "componentAttributes" : {
+                "richTextValue" : "<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><span style=\"color: black; font-size: 18px;\">Visita nuestra página de internet para conocer todas nuestras líneas de productos, fichas técnicas y videos:</span></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><a href=\"https://www.aquaplas.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.boton_aquaplas.1}\" style=\"width: 267.609px; height: 104.062px;\"></a></p>\n<p>&nbsp;</p>"
+              },
+              "componentName" : "forceCommunity:richTextInline",
+              "id" : "676a8ab0-9886-4d72-b10a-dfd1b3bc3672",
+              "renditionMap" : { },
+              "type" : "component"
+            }, {
+              "componentAttributes" : {
+                "autoPlay" : false,
+                "autoPlayInterval" : 2000,
+                "controlsAlignment" : "center",
+                "controlsPosition" : "bottom",
+                "datasource" : "carousel-object",
+                "datasourceInput" : "CRSL - 00022",
+                "showControls" : true,
+                "slidesPerPage" : 6,
+                "title" : "",
+                "titleAlign" : "left",
+                "titleSize" : "large"
+              },
+              "componentName" : "cloudx_cms:SS_cmsCarousel",
+              "id" : "f575f701-60f6-442f-b1f5-d4a57d8831ea",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "7d043804-6115-4bf4-b802-0696efaafefc",
+            "regionLabel" : "Productos",
+            "regionName" : "1",
+            "renditionMap" : { },
+            "type" : "region"
+          }, {
+            "components" : [ {
+              "componentAttributes" : {
+                "richTextValue" : "<p style=\"text-align: center;\"><a href=\"https://cemix-prod.my.salesforce.com/sfc/p/80000000dndp/a/5c0000011IWa/IrhQ6_mhzr0xeyaONpIPtCLRMIXhQyIvtQKGiIpOErE\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.RENDERS_OFICIALES.1}\" style=\"width: 294.625px; height: 294.461px;\"></a><a href=\"https://cemix-prod.my.salesforce.com/sfc/p/80000000dndp/a/5c0000011IWb/go7BEnnUc6wkYRY6lqRpS2eDs4yzSd36SXBAAaaUqj8\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.DESCARGAR_LOGOS.1}\" style=\"width: 289.969px; height: 289.805px;\"></a></p>"
+              },
+              "componentName" : "forceCommunity:richTextInline",
+              "id" : "0996fb29-9be2-4266-a897-629973c502b0",
+              "renditionMap" : { },
+              "type" : "component"
+            }, {
+              "componentAttributes" : {
+                "richTextValue" : "<p style=\"text-align: center;\"><a href=\"https://www.facebook.com/AquaplasOficial\" rel=\"noopener noreferrer\" target=\"_blank\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.FACEBOOK_VECTOR.1}\" style=\"width: 50px; height: 50px;\"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.aquaplas.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.WEB_VECTOR.1}\" style=\"width: 50px; height: 49.9609px;\"></a></p>\n<p style=\"text-align: center;\"><br></p>\n<p>&nbsp;</p>"
+              },
+              "componentName" : "forceCommunity:richTextInline",
+              "id" : "808f68c9-b135-48e1-80d0-263e2d83aacd",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "2d409a7a-5c2b-4068-8e23-70ebc0a6f5e5",
+            "regionLabel" : "Digital",
+            "regionName" : "2",
+            "renditionMap" : { },
+            "type" : "region"
+          } ],
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "65d01b42-b75d-4ee1-821c-4f9afdc77cc0",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "bcd97b28-8357-4f39-b35e-7f970613e190",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Marketing"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "fc65fe35-f20b-40a2-a56c-83cd2ad7b616",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "9681cf00-cd67-49dc-a894-3da4caa233df",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-marketing"
+}

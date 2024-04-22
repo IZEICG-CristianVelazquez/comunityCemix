@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "7c66ad65-8eae-41c7-b727-43ad6c44f34b",
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "configurationTags" : [ ],
+  "devName" : "Facturas__c",
+  "id" : "14fcda1f-2a22-4a81-b868-9bcc385a62d9",
+  "label" : "Facturas",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-facturas",
+  "type" : "route",
+  "urlPrefix" : "facturas"
+}

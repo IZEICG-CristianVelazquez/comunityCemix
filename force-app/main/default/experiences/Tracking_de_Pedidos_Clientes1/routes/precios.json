@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "11be377a-1f70-48ef-ad7f-ec4df03e5307",
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "configurationTags" : [ ],
+  "devName" : "Precios__c",
+  "id" : "18f4ef44-d1d0-47fa-98f1-834b77f57843",
+  "label" : "Precios",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-precios",
+  "type" : "route",
+  "urlPrefix" : "precios"
+}

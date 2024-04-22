@@ -1,0 +1,81 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:dynamicLayout",
+  "dataProviders" : [ ],
+  "id" : "20e6362e-f1b3-4c50-99c4-fa3273fc8662",
+  "label" : "Facturas en proceso",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgba(0,0,0,0)",
+        "backgroundOverlay" : "rgba(0,0,0,0.5)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "f27ada23-7581-4059-9bcf-b445c42b0cbf",
+          "columns" : [ {
+            "UUID" : "abfe42b0-9c23-49a9-ab69-60254ec2d4fc",
+            "columnKey" : "1",
+            "columnName" : "Column 1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "f27ada23-7581-4059-9bcf-b445c42b0cbf",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "enableInlineEdit" : false,
+            "filterName" : "Facturas_en_proceso",
+            "layout" : "STANDARD",
+            "pageSize" : 25,
+            "scope" : "Facturas__c",
+            "showActionBar" : false,
+            "showChartsPanel" : false,
+            "showDisplay" : "grid",
+            "showFilterPanel" : false,
+            "showImageIcon" : true,
+            "showManualRefreshButton" : true,
+            "showObjectName" : true,
+            "showPinnedList" : true,
+            "showSearchBar" : false
+          },
+          "componentName" : "forceCommunity:objectHome",
+          "id" : "21b984b0-edf1-4ab1-9cc0-f82bf31d2580",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "abfe42b0-9c23-49a9-ab69-60254ec2d4fc",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d3c4f039-d116-4a7a-8e14-5ae83f9ddf08",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "title" : "Facturas en proceso"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "d2e3f8b8-34eb-4a85-a496-5fd095cbfd45",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b8bdecce-f88e-4352-a004-9fe43d846d50",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-facturas-en-proceso"
+}

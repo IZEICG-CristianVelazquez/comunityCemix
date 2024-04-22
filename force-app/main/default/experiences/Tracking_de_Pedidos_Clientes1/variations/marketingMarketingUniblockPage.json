@@ -1,0 +1,13 @@
+{
+  "componentVariants" : [ {
+    "id" : "0fec2de8-dcfd-401c-8bd2-3a4f125a1c57",
+    "propertyOverrides" : {
+      "activeViewId" : "1564b73a-7910-4bfc-bb54-18cdfc9ebca4"
+    },
+    "targetId" : "23de4ec8-56e5-4faf-987a-0b4fe06df402",
+    "type" : "componentVariant"
+  } ],
+  "developerName" : "Marketing_Marketing_Uniblock_Page",
+  "id" : "171a0f2c-604a-47a8-a93b-42ad334e72f5",
+  "type" : "experienceVariation"
+}

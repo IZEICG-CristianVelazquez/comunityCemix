@@ -1,0 +1,13 @@
+{
+  "componentVariants" : [ {
+    "id" : "9cbfe748-75fb-4453-9bcb-fc65aec598eb",
+    "propertyOverrides" : {
+      "activeViewId" : "4e9cbd7b-edc6-470e-bd5e-6699bdd8abd8"
+    },
+    "targetId" : "bc27524e-2d68-428c-992e-f10524cc6a49",
+    "type" : "componentVariant"
+  } ],
+  "developerName" : "Home_Home_Cemix_Page",
+  "id" : "cbe41f2f-6208-4f9b-bf67-4fe0ae323a97",
+  "type" : "experienceVariation"
+}

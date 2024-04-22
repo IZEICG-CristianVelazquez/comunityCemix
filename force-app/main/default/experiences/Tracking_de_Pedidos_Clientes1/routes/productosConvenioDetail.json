@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "f48f1536-a4e6-40f0-9bcb-7f4aba00af10",
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "configurationTags" : [ ],
+  "devName" : "Productos_Convenio_Detail__c",
+  "id" : "1a3c08cd-60d7-4161-958b-ea80c805d6c9",
+  "label" : "Productos Convenio Detail",
+  "objectApiName" : "Productos_Convenio__c",
+  "routeType" : "detail-a1X",
+  "type" : "route",
+  "urlPrefix" : "productos-convenio"
+}

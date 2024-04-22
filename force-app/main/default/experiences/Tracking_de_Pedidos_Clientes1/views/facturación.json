@@ -1,0 +1,233 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:dynamicLayout",
+  "dataProviders" : [ ],
+  "id" : "9c19da1e-5998-4e8c-8af8-a8fd0314f6fa",
+  "label" : "Facturación",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgba(0,0,0,0)",
+        "backgroundOverlay" : "rgba(0,0,0,0.5)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "4827e09e-bd96-4bde-b654-9bd347cf6ea3",
+          "columns" : [ {
+            "UUID" : "710d097d-7cd5-4521-9d4b-837a1b722e8a",
+            "columnKey" : "1",
+            "columnName" : "Column 1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "4827e09e-bd96-4bde-b654-9bd347cf6ea3",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "tabsetConfig" : {
+              "UUID" : "ff99e6ad-338b-44dc-893d-b6cd036fae5d",
+              "activeTab" : "",
+              "tabs" : [ {
+                "UUID" : "b526dda4-4c1c-439a-b6e6-ef553eb71b4d",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "1",
+                "tabName" : "Facturas"
+              }, {
+                "UUID" : "40281c98-30d3-496c-9f26-c3ef7bbeac53",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "83969",
+                "tabName" : "Sustituciones"
+              }, {
+                "UUID" : "ff5de85d-e1a0-465e-9aa6-66ed200e7fba",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "6d2d6",
+                "tabName" : "Anulaciones"
+              }, {
+                "UUID" : "08338dc6-ee04-4194-b29b-548947ca9de6",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "667bb",
+                "tabName" : "Notas de Crédito"
+              }, {
+                "UUID" : "6450528e-a8fe-4c8a-ba52-54a990b0e80f",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "2",
+                "tabName" : "Pagos"
+              }, {
+                "UUID" : "180dafef-08dc-4ed1-ba66-1dbe67a75aa1",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "3",
+                "tabName" : "Estado de cuenta"
+              } ],
+              "useOverflowMenu" : false
+            }
+          },
+          "componentName" : "forceCommunity:tabset",
+          "id" : "ff99e6ad-338b-44dc-893d-b6cd036fae5d",
+          "regions" : [ {
+            "components" : [ {
+              "componentAttributes" : {
+                "fieldSetName" : "LV_Portal_Clientes",
+                "fieldsToSearch" : "No_Factura_SAP__c,Orden_de_Compra_frm__c",
+                "filters" : "Type__c IN ('F2','ANTCTE') AND Fecha_Factura__c = LAST_N_DAYS:365",
+                "limit" : 10,
+                "objectName" : "Facturas__c",
+                "recordTypes" : "Salescloud",
+                "title" : "Facturas"
+              },
+              "componentName" : "c:customListView",
+              "id" : "cc87fb3a-72bb-4151-88ad-6f8e67fe9610",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "b526dda4-4c1c-439a-b6e6-ef553eb71b4d",
+            "regionLabel" : "Facturas",
+            "regionName" : "1",
+            "renditionMap" : { },
+            "type" : "region"
+          }, {
+            "components" : [ {
+              "componentAttributes" : {
+                "fieldSetName" : "LV_Portal_Clientes",
+                "fieldsToSearch" : "No_Factura_SAP__c",
+                "filters" : "Type__c IN ('ZF5') AND Fecha_Factura__c = LAST_N_DAYS:365",
+                "limit" : 10,
+                "objectName" : "Facturas__c",
+                "recordTypes" : "",
+                "showFilter" : false,
+                "title" : "List View"
+              },
+              "componentName" : "c:customListView",
+              "id" : "1f548789-a3ac-40b6-8015-5678b03029a2",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "40281c98-30d3-496c-9f26-c3ef7bbeac53",
+            "regionLabel" : "Sustituciones",
+            "regionName" : "83969",
+            "renditionMap" : { },
+            "type" : "region"
+          }, {
+            "components" : [ {
+              "componentAttributes" : {
+                "fieldSetName" : "LV_Portal_Clientes",
+                "fieldsToSearch" : "No_Factura_SAP__c",
+                "filters" : "Type__c IN ('S1','S2','S3') AND Fecha_Factura__c = LAST_N_DAYS:365",
+                "limit" : 10,
+                "objectName" : "Facturas__c",
+                "recordTypes" : "",
+                "title" : "Anulaciones"
+              },
+              "componentName" : "c:customListView",
+              "id" : "2b1dbffd-7e3e-49e9-86ac-a75f5b9c2988",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "ff5de85d-e1a0-465e-9aa6-66ed200e7fba",
+            "regionLabel" : "Anulaciones",
+            "regionName" : "6d2d6",
+            "renditionMap" : { },
+            "type" : "region"
+          }, {
+            "components" : [ {
+              "componentAttributes" : {
+                "fieldSetName" : "LV_Portal_Clientes",
+                "fieldsToSearch" : "No_Factura_SAP__c",
+                "filters" : "Type__c IN ('G2','RE','ANTCTE') AND Fecha_Factura__c = LAST_N_DAYS:365",
+                "limit" : 10,
+                "objectName" : "Facturas__c",
+                "recordTypes" : "Nota_de_Credito",
+                "title" : "Notas de Crédito"
+              },
+              "componentName" : "c:customListView",
+              "id" : "58fb165f-865c-4354-a55f-963fe52582ed",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "08338dc6-ee04-4194-b29b-548947ca9de6",
+            "regionLabel" : "Notas de Crédito",
+            "regionName" : "667bb",
+            "renditionMap" : { },
+            "type" : "region"
+          }, {
+            "components" : [ {
+              "componentAttributes" : {
+                "richTextValue" : "<p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0); font-size: 20px;\">PRÓXIMAMENTE</span></p>"
+              },
+              "componentName" : "forceCommunity:richTextInline",
+              "id" : "ba121504-a317-4521-9a17-8f8e27878443",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "6450528e-a8fe-4c8a-ba52-54a990b0e80f",
+            "regionLabel" : "Pagos",
+            "regionName" : "2",
+            "renditionMap" : { },
+            "type" : "region"
+          }, {
+            "components" : [ {
+              "componentAttributes" : {
+                "isCommunity" : true
+              },
+              "componentName" : "c:communityEdoCuentaComponent",
+              "id" : "559789a7-8651-4d28-9a10-e2de80bbcbbe",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "180dafef-08dc-4ed1-ba66-1dbe67a75aa1",
+            "regionLabel" : "Estado de cuenta",
+            "regionName" : "3",
+            "renditionMap" : { },
+            "type" : "region"
+          } ],
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "710d097d-7cd5-4521-9d4b-837a1b722e8a",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "85d3c8b8-dd94-428e-9ef1-db2243acf0cc",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Facturación"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "be117237-b9bc-459d-af77-77a1b97568c6",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "1be7cb5a-1cb5-4872-9747-6395017effbe",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-facturacin"
+}

@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "8ddd3e34-0a3e-41e4-8e03-a4142f02740d",
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "configurationTags" : [ ],
+  "devName" : "Producto_Pedido_Related_List__c",
+  "id" : "fb6a9aac-8337-4772-a9a1-731f1472c50c",
+  "label" : "Producto Pedido Related List",
+  "objectApiName" : "ProductoPedido__c",
+  "routeType" : "relatedlist-a1F",
+  "type" : "route",
+  "urlPrefix" : "productopedido"
+}

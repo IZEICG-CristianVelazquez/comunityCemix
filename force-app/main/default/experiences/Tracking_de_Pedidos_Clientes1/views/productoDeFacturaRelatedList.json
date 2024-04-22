@@ -1,0 +1,39 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "dcb9144d-9aa4-4763-8dd8-d627a78cb947",
+  "label" : "Producto de factura Related List",
+  "regions" : [ {
+    "id" : "61cef11e-0b2f-4fd8-978f-79b36dc2be33",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customTitle" : "",
+        "parentRecordId" : "{!recordId}",
+        "relatedListName" : "{!relationshipApiName}",
+        "showBreadCrumbs" : true,
+        "showCustomTitle" : false,
+        "showManualRefreshButton" : true,
+        "showRowNumbers" : true
+      },
+      "componentName" : "forceCommunity:relatedList",
+      "id" : "251076ea-63d9-4a97-b5d9-b9d1068fffa8",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "d629fff7-490a-4ea3-a1e3-9ff516fd5d4a",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "fb6abd26-392a-4348-883b-2089ab825d8d",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "relatedlist-a2A"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <accessMappings>
+        <accessLevel>Read</accessLevel>
+        <object>Account</object>
+        <objectField>Grupo_portal__c</objectField>
+        <userField>Account.Grupo_portal__c</userField>
+    </accessMappings>
+    <accessMappings>
+        <accessLevel>Edit</accessLevel>
+        <object>Convenios__c</object>
+        <objectField>Account__c.Grupo_portal__c</objectField>
+        <userField>Account.Grupo_portal__c</userField>
+    </accessMappings>
+    <accessMappings>
+        <accessLevel>Read</accessLevel>
+        <object>Facturas__c</object>
+        <objectField>Cuenta_SAP__c.Grupo_portal__c</objectField>
+        <userField>Account.Grupo_portal__c</userField>
+    </accessMappings>
+    <accessMappings>
+        <accessLevel>Read</accessLevel>
+        <object>Order</object>
+        <objectField>Account.Grupo_portal__c</objectField>
+        <userField>Account.Grupo_portal__c</userField>
+    </accessMappings>
+    <name>Clientes</name>
+    <profiles>cliente</profiles>
+    <profiles>portal aquaplas</profiles>
+    <profiles>portal cemix</profiles>
+    <profiles>portal uniblock</profiles>
+</SharingSet>

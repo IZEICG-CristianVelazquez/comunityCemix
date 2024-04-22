@@ -1,0 +1,53 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0051A00000DdInGQAV",
+      "createdByName": "Soporte Salesforce",
+      "createdDate": "2023-07-05T20:11:58.000Z",
+      "fileName": "siteDotComSites/Prueba1.site",
+      "fullName": "Prueba1",
+      "id": "0DM5c00000111sJGAQ",
+      "lastModifiedById": "0051A00000DdInGQAV",
+      "lastModifiedByName": "Soporte Salesforce",
+      "lastModifiedDate": "2023-07-05T20:12:13.000Z",
+      "type": "SiteDotCom"
+    },
+    {
+      "createdById": "0051A00000DdInGQAV",
+      "createdByName": "Soporte Salesforce",
+      "createdDate": "2021-06-17T19:45:27.000Z",
+      "fileName": "siteDotComSites/Tracking_de_Pedidos_Clientes1.site",
+      "fullName": "Tracking_de_Pedidos_Clientes1",
+      "id": "0DM0y00000009ygGAA",
+      "lastModifiedById": "0051A00000DdInGQAV",
+      "lastModifiedByName": "Soporte Salesforce",
+      "lastModifiedDate": "2024-04-15T17:20:36.000Z",
+      "type": "SiteDotCom"
+    },
+    {
+      "createdById": "0051A00000DdInGQAV",
+      "createdByName": "Soporte Salesforce",
+      "createdDate": "2021-03-10T22:49:56.000Z",
+      "fileName": "siteDotComSites/Uniblock1.site",
+      "fullName": "Uniblock1",
+      "id": "0DM0y00000009yHGAQ",
+      "lastModifiedById": "0051A00000DdInGQAV",
+      "lastModifiedByName": "Soporte Salesforce",
+      "lastModifiedDate": "2021-03-10T22:50:21.000Z",
+      "type": "SiteDotCom"
+    },
+    {
+      "createdById": "0051A00000DdInGQAV",
+      "createdByName": "Soporte Salesforce",
+      "createdDate": "2021-03-09T00:22:17.000Z",
+      "fileName": "siteDotComSites/Tracking_de_Pedidos1.site",
+      "fullName": "Tracking_de_Pedidos1",
+      "id": "0DM0y00000009yCGAQ",
+      "lastModifiedById": "0051A00000DdInGQAV",
+      "lastModifiedByName": "Soporte Salesforce",
+      "lastModifiedDate": "2021-03-09T00:24:33.000Z",
+      "type": "SiteDotCom"
+    }
+  ]
+}

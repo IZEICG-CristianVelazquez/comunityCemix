@@ -1,0 +1,117 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:dynamicLayout",
+  "dataProviders" : [ ],
+  "id" : "7c66ad65-8eae-41c7-b727-43ad6c44f34b",
+  "label" : "Facturas",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgba(0,0,0,0)",
+        "backgroundOverlay" : "rgba(0,0,0,0.5)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "6efbfc82-977f-4c00-b332-274cd332d487",
+          "columns" : [ {
+            "UUID" : "6a3db9bf-2f65-435d-8fcf-9fa29518dcbf",
+            "columnKey" : "1",
+            "columnName" : "Column 1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "6efbfc82-977f-4c00-b332-274cd332d487",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "fieldSetName" : "LV_Portal_Clientes",
+            "fieldsToSearch" : "No_Factura_SAP__c,Orden_de_Compra_frm__c",
+            "objectName" : "Facturas__c",
+            "title" : "Facturas"
+          },
+          "componentName" : "c:customListView",
+          "id" : "89b4a291-267f-403e-afff-c65fbd3a38da",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        }, {
+          "componentAttributes" : {
+            "enableInlineEdit" : true,
+            "filterName" : "AllAccounts",
+            "layout" : "FULL",
+            "pageSize" : 25,
+            "scope" : "Account",
+            "showActionBar" : true,
+            "showChartsPanel" : true,
+            "showDisplay" : "showall",
+            "showFilterPanel" : true,
+            "showImageIcon" : true,
+            "showManualRefreshButton" : true,
+            "showObjectName" : true,
+            "showPinnedList" : true,
+            "showSearchBar" : true
+          },
+          "componentName" : "forceCommunity:objectHome",
+          "id" : "df33b157-27ba-4fd6-a89f-6074579ee061",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        }, {
+          "componentAttributes" : {
+            "enableInlineEdit" : true,
+            "filterName" : "All1",
+            "layout" : "FULL",
+            "pageSize" : 25,
+            "scope" : "Facturas__c",
+            "showActionBar" : true,
+            "showChartsPanel" : true,
+            "showDisplay" : "showall",
+            "showFilterPanel" : true,
+            "showImageIcon" : true,
+            "showManualRefreshButton" : true,
+            "showObjectName" : true,
+            "showPinnedList" : true,
+            "showSearchBar" : true
+          },
+          "componentName" : "forceCommunity:objectHome",
+          "id" : "6caf1f42-9a83-44bd-b83a-ad45789cc27a",
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "6a3db9bf-2f65-435d-8fcf-9fa29518dcbf",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "41b2b64b-b2ce-47a5-a500-5a776958eedc",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Facturas"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "f03236bc-9c95-4c18-a8d5-443f3d4eb27c",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4041d1ea-024d-470d-bc4d-1083714caabc",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-facturas"
+}

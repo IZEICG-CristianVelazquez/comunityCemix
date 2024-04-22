@@ -1,0 +1,146 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:dynamicLayout",
+  "dataProviders" : [ ],
+  "id" : "6c4c8951-2aaa-426c-a8f8-a623b9602c70",
+  "label" : "Marketing",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "background" : "background: rgba(0,0,0,0)",
+        "backgroundOverlay" : "rgba(0,0,0,0.5)",
+        "contentAreaWidth" : 100,
+        "sectionConfig" : {
+          "UUID" : "297dde02-b382-4e72-883a-158dfe6fcbe9",
+          "columns" : [ {
+            "UUID" : "3997f913-a64c-4e52-94ac-eee83ca65f44",
+            "columnKey" : "1",
+            "columnName" : "Column 1",
+            "columnWidth" : "12",
+            "seedComponents" : [ ]
+          } ]
+        },
+        "sectionHeight" : 300
+      },
+      "componentName" : "forceCommunity:section",
+      "id" : "297dde02-b382-4e72-883a-158dfe6fcbe9",
+      "regions" : [ {
+        "components" : [ {
+          "componentAttributes" : {
+            "tabsetConfig" : {
+              "UUID" : "638e3df5-59e3-4207-8b76-0ce2054bc6d6",
+              "activeTab" : "",
+              "tabs" : [ {
+                "UUID" : "b9aecbcd-ea5d-4392-bcfb-11bec405a8d8",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "1",
+                "tabName" : "Productos"
+              }, {
+                "UUID" : "efd210f3-ec57-4238-85ca-473a118e3c08",
+                "allowGuestUser" : false,
+                "locked" : false,
+                "seedComponents" : [ ],
+                "tabKey" : "2",
+                "tabName" : "Digital"
+              } ],
+              "useOverflowMenu" : false
+            }
+          },
+          "componentName" : "forceCommunity:tabset",
+          "id" : "638e3df5-59e3-4207-8b76-0ce2054bc6d6",
+          "regions" : [ {
+            "components" : [ {
+              "componentAttributes" : {
+                "richTextValue" : "<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><span style=\"color: black; font-size: 18px;\">Visita nuestra página de internet para conocer todas nuestras líneas de productos, fichas técnicas y videos:</span></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><a href=\"https://www.cemix.com/\" rel=\"noopener noreferrer\" target=\"_blank\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.Screen_Shot_20230906_at_101628_am.1}\" style=\"width: 277.062px; height: 69.7188px;\"></a></p>\n<p>&nbsp;</p>"
+              },
+              "componentName" : "forceCommunity:richTextInline",
+              "id" : "cb788e3f-6503-4727-a7bb-8b90a35b25c3",
+              "renditionMap" : { },
+              "type" : "component"
+            }, {
+              "componentAttributes" : {
+                "autoPlay" : false,
+                "autoPlayInterval" : 2000,
+                "controlsAlignment" : "center",
+                "controlsPosition" : "bottom",
+                "datasource" : "carousel-object",
+                "datasourceInput" : "CRSL - 00019",
+                "showControls" : true,
+                "slidesPerPage" : 7,
+                "title" : "",
+                "titleAlign" : "left",
+                "titleSize" : "large"
+              },
+              "componentName" : "cloudx_cms:SS_cmsCarousel",
+              "id" : "904379d7-0e92-4f81-afea-ee727e4b53f0",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "b9aecbcd-ea5d-4392-bcfb-11bec405a8d8",
+            "regionLabel" : "Productos",
+            "regionName" : "1",
+            "renditionMap" : { },
+            "type" : "region"
+          }, {
+            "components" : [ {
+              "componentAttributes" : {
+                "richTextValue" : "<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><a href=\"https://www.cemix.com/3d-flip-book/guia-de-productos\" rel=\"noopener noreferrer\" target=\"_blank\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.cemixguiaproductos_22.1}\" style=\"width: 229.453px; height: 112.359px;\"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.cemix.com/videos/\" rel=\"noopener noreferrer\" target=\"_blank\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.cemixvideos22.1}\" style=\"width: 233.375px; height: 115.469px;\"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+              },
+              "componentName" : "forceCommunity:richTextInline",
+              "id" : "53b40436-8ccb-40ed-b062-b9a246bd37ea",
+              "renditionMap" : { },
+              "type" : "component"
+            }, {
+              "componentAttributes" : {
+                "richTextValue" : "<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><a href=\"https://www.facebook.com/CemixOficial/\" rel=\"noopener noreferrer\" target=\"_blank\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.fbredescemix11.1}\" style=\"width: 50px; height: 50px;\"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.youtube.com/@CemixOficial/videos\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255);\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.ytredescemix21.1}\" style=\"width: 50px; height: 50px;\"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.instagram.com/cemixoficial/\" rel=\"noopener noreferrer\" target=\"_blank\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.igredescemix31.1}\" style=\"width: 50px; height: 50px;\"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=\"https://www.tiktok.com/@cemixoficial\" rel=\"noopener noreferrer\" target=\"_blank\"><img class=\"sfdcCbImage\" alt=\"\" src=\"{!contentAsset.ttredescemix42.1}\" style=\"width: 50px; height: 50.1562px;\"></a></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>\n<p style=\"text-align: center;\"><br></p>"
+              },
+              "componentName" : "forceCommunity:richTextInline",
+              "id" : "5e717895-3991-40ff-b6ac-1e27f2447b39",
+              "renditionMap" : { },
+              "type" : "component"
+            } ],
+            "id" : "efd210f3-ec57-4238-85ca-473a118e3c08",
+            "regionLabel" : "Digital",
+            "regionName" : "2",
+            "renditionMap" : { },
+            "type" : "region"
+          } ],
+          "renderPriority" : "NEUTRAL",
+          "renditionMap" : { },
+          "type" : "component"
+        } ],
+        "id" : "3997f913-a64c-4e52-94ac-eee83ca65f44",
+        "regionLabel" : "Column 1",
+        "regionName" : "1",
+        "renditionMap" : { },
+        "type" : "region"
+      } ],
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "9281b67e-bdd8-4c03-a856-f51cf7878535",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Marketing"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "023da5ec-b264-4b6d-b197-cb0487bd9777",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "4ef0fd45-e721-40cf-9bb0-e9dd98b48345",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-marketing"
+}

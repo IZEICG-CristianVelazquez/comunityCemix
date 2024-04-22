@@ -1,0 +1,3113 @@
+{
+    "serverMaxRevisionCounter": 67479,
+    "sourceMembers": {
+        "RemoteSiteSetting__cemixqa": {
+            "serverRevisionCounter": 18,
+            "lastRetrievedFromServer": null,
+            "memberType": "RemoteSiteSetting",
+            "isNameObsolete": false
+        },
+        "ListView__Error_Log__c.All": {
+            "serverRevisionCounter": 52275,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "RemoteSiteSetting__CEMIXQAA": {
+            "serverRevisionCounter": 20,
+            "lastRetrievedFromServer": null,
+            "memberType": "RemoteSiteSetting",
+            "isNameObsolete": false
+        },
+        "CustomObject__Convenios__c": {
+            "serverRevisionCounter": 51716,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "Layout__Account-GC": {
+            "serverRevisionCounter": 6797,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__Account-Nuevos Distribuidores": {
+            "serverRevisionCounter": 67237,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__Muestra__c-Formato Muestra": {
+            "serverRevisionCounter": 65,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__Order-Formato Pedidos de Convenio": {
+            "serverRevisionCounter": 75,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__Order-Formato Pedidos de Convenio CS": {
+            "serverRevisionCounter": 85,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__Order-Formato de pedidos": {
+            "serverRevisionCounter": 94,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__Sustitucion_de_Facturas__c-Formato Sustitucion de Facturas": {
+            "serverRevisionCounter": 107,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Profile__Admin": {
+            "serverRevisionCounter": 67073,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Layout__Account-Admin Nuevos Distribuidores": {
+            "serverRevisionCounter": 6785,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "SiteDotCom__Prueba1": {
+            "serverRevisionCounter": 44877,
+            "lastRetrievedFromServer": null,
+            "memberType": "SiteDotCom",
+            "isNameObsolete": false
+        },
+        "SiteDotCom__Tracking_de_Pedidos1": {
+            "serverRevisionCounter": 44939,
+            "lastRetrievedFromServer": null,
+            "memberType": "SiteDotCom",
+            "isNameObsolete": false
+        },
+        "SiteDotCom__Tracking_de_Pedidos_Clientes1": {
+            "serverRevisionCounter": 45003,
+            "lastRetrievedFromServer": null,
+            "memberType": "SiteDotCom",
+            "isNameObsolete": false
+        },
+        "SiteDotCom__Uniblock1": {
+            "serverRevisionCounter": 45055,
+            "lastRetrievedFromServer": null,
+            "memberType": "SiteDotCom",
+            "isNameObsolete": false
+        },
+        "ListView__Order.AllActivatedOrders": {
+            "serverRevisionCounter": 5300,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "ListView__Config_Ventas__c.All": {
+            "serverRevisionCounter": 5305,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "EmailTemplate__unfiled$public/Embed_a_Survey_Link": {
+            "serverRevisionCounter": 7258,
+            "lastRetrievedFromServer": null,
+            "memberType": "EmailTemplate",
+            "isNameObsolete": false
+        },
+        "EmailTemplate__unfiled$public/Embed_a_Survey_Question": {
+            "serverRevisionCounter": 7259,
+            "lastRetrievedFromServer": null,
+            "memberType": "EmailTemplate",
+            "isNameObsolete": false
+        },
+        "Flow__net_promoter_score": {
+            "serverRevisionCounter": 7313,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "Flow__customer_satisfaction": {
+            "serverRevisionCounter": 7373,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "Settings__Account": {
+            "serverRevisionCounter": 7374,
+            "lastRetrievedFromServer": null,
+            "memberType": "Settings",
+            "isNameObsolete": false
+        },
+        "FlexiPage__P_gina_de_inicio_predeterminada7": {
+            "serverRevisionCounter": 11546,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "RecordType__Task.TaskCCN": {
+            "serverRevisionCounter": 7439,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Task.TareaMX": {
+            "serverRevisionCounter": 7438,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Task.cgcloud__User_Notification": {
+            "serverRevisionCounter": 7440,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Task.cgcloud__User_Task": {
+            "serverRevisionCounter": 7443,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "StandardValueSet__TaskType": {
+            "serverRevisionCounter": 7442,
+            "lastRetrievedFromServer": null,
+            "memberType": "StandardValueSet",
+            "isNameObsolete": false
+        },
+        "RecordType__Event.EventoCCN": {
+            "serverRevisionCounter": 7444,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Event.Eventos": {
+            "serverRevisionCounter": 7445,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "StandardValueSet__EventType": {
+            "serverRevisionCounter": 7446,
+            "lastRetrievedFromServer": null,
+            "memberType": "StandardValueSet",
+            "isNameObsolete": false
+        },
+        "RecordType__Asset.cgcloud__Asset_Custom": {
+            "serverRevisionCounter": 7447,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "StandardValueSet__AssetStatus": {
+            "serverRevisionCounter": 7448,
+            "lastRetrievedFromServer": null,
+            "memberType": "StandardValueSet",
+            "isNameObsolete": false
+        },
+        "CustomObject__Asset": {
+            "serverRevisionCounter": 7450,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "ConnectedApp__Consumer_Goods_Connected_App": {
+            "serverRevisionCounter": 8748,
+            "lastRetrievedFromServer": null,
+            "memberType": "ConnectedApp",
+            "isNameObsolete": false
+        },
+        "ConnectedApp__CEMIX": {
+            "serverRevisionCounter": 8747,
+            "lastRetrievedFromServer": null,
+            "memberType": "ConnectedApp",
+            "isNameObsolete": false
+        },
+        "AppMenu__AppSwitcher": {
+            "serverRevisionCounter": 7662,
+            "lastRetrievedFromServer": null,
+            "memberType": "AppMenu",
+            "isNameObsolete": false
+        },
+        "Certificate__CGCloud_Services": {
+            "serverRevisionCounter": 7455,
+            "lastRetrievedFromServer": null,
+            "memberType": "Certificate",
+            "isNameObsolete": false
+        },
+        "CustomObject__Visit": {
+            "serverRevisionCounter": 59569,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "ApprovalProcess__cgcloud__Account_Task__c.Customer_Task_Assignment": {
+            "serverRevisionCounter": 7457,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApprovalProcess",
+            "isNameObsolete": false
+        },
+        "ApprovalProcess__cgcloud__Order__c.Order_Approval_No_Workflow_Mobility": {
+            "serverRevisionCounter": 7458,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApprovalProcess",
+            "isNameObsolete": false
+        },
+        "ApprovalProcess__cgcloud__Order__c.Order_Approval_No_Workflow_Web": {
+            "serverRevisionCounter": 7459,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApprovalProcess",
+            "isNameObsolete": false
+        },
+        "ApprovalProcess__cgcloud__Order__c.Order_Approval_Process_for_Mobility": {
+            "serverRevisionCounter": 7460,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApprovalProcess",
+            "isNameObsolete": false
+        },
+        "ApprovalProcess__cgcloud__Order__c.Order_Approval_Process_for_Web": {
+            "serverRevisionCounter": 7461,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApprovalProcess",
+            "isNameObsolete": false
+        },
+        "ApprovalProcess__cgcloud__Order__c.Order_Direct_Approval_Mobility": {
+            "serverRevisionCounter": 7462,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApprovalProcess",
+            "isNameObsolete": false
+        },
+        "ApprovalProcess__cgcloud__Order__c.Order_Direct_Approval_Web": {
+            "serverRevisionCounter": 7463,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApprovalProcess",
+            "isNameObsolete": false
+        },
+        "ApprovalProcess__cgcloud__Payment__c.Payments_Approval_Process": {
+            "serverRevisionCounter": 7464,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApprovalProcess",
+            "isNameObsolete": false
+        },
+        "ApprovalProcess__cgcloud__Rate_Based_Funding__c.RBF_Approval_Process": {
+            "serverRevisionCounter": 7465,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApprovalProcess",
+            "isNameObsolete": false
+        },
+        "ApprovalProcess__cgcloud__User_Document__c.Daily_Report_Approval_Direct": {
+            "serverRevisionCounter": 7466,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApprovalProcess",
+            "isNameObsolete": false
+        },
+        "ApprovalProcess__cgcloud__User_Document__c.User_Document_Approval": {
+            "serverRevisionCounter": 7467,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApprovalProcess",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_AccountPlan_Calculation_Worker": {
+            "serverRevisionCounter": 7468,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Account_Hierarchy_Flattening_Worker": {
+            "serverRevisionCounter": 7469,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Account_Segmentation_Worker": {
+            "serverRevisionCounter": 7470,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Advanced_Pricing_Worker": {
+            "serverRevisionCounter": 7471,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Analytics_User": {
+            "serverRevisionCounter": 7472,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Calculation_Result_Export_RTR": {
+            "serverRevisionCounter": 7473,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_FA": {
+            "serverRevisionCounter": 7474,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_FM": {
+            "serverRevisionCounter": 7475,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Finance_User": {
+            "serverRevisionCounter": 7476,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Funds_Calculation_Worker": {
+            "serverRevisionCounter": 7477,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_HQ_Sales_Manager": {
+            "serverRevisionCounter": 7478,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Inventory_Manager": {
+            "serverRevisionCounter": 7479,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_KAM": {
+            "serverRevisionCounter": 7480,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Master_Data_Admin": {
+            "serverRevisionCounter": 7481,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Mobility_Addon": {
+            "serverRevisionCounter": 7482,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Org_Unit_Hierarchy_Flattening_Worker": {
+            "serverRevisionCounter": 7483,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Payment_Admin": {
+            "serverRevisionCounter": 7484,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Payment_Calculation_Worker": {
+            "serverRevisionCounter": 7485,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Payment_Finance_User": {
+            "serverRevisionCounter": 7486,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Payment_User": {
+            "serverRevisionCounter": 7487,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Product_Assortment_APL_Alignment_Worker": {
+            "serverRevisionCounter": 7488,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Promotion_Calculation_Worker": {
+            "serverRevisionCounter": 7489,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_RBF_Admin": {
+            "serverRevisionCounter": 7490,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_RBF_Calculation_Worker": {
+            "serverRevisionCounter": 7491,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_RBF_Finance_User": {
+            "serverRevisionCounter": 7492,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_RBF_User": {
+            "serverRevisionCounter": 7493,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Real_Time_Reporting": {
+            "serverRevisionCounter": 7494,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Real_Time_Reporting_Admin": {
+            "serverRevisionCounter": 7495,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Reorganization_Worker": {
+            "serverRevisionCounter": 7496,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_SF_Data_Sync_Worker": {
+            "serverRevisionCounter": 7497,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Sales_User": {
+            "serverRevisionCounter": 38333,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Supervisor": {
+            "serverRevisionCounter": 7499,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Tour_Driver": {
+            "serverRevisionCounter": 7500,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CGCloud_Trade_Promotion_Management_Analytics_User": {
+            "serverRevisionCounter": 7501,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "CustomField__cgcloud__Data_Type__c.HKey__c": {
+            "serverRevisionCounter": 7502,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomIndex__cgcloud__Data_Type__c.HKey__c": {
+            "serverRevisionCounter": 7504,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomIndex",
+            "isNameObsolete": false
+        },
+        "CustomField__cgc_sync__Sync_Mobile_App_PL_Map__c.HKey__c": {
+            "serverRevisionCounter": 7505,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomIndex__cgc_sync__Sync_Mobile_App_PL_Map__c.HKey__c": {
+            "serverRevisionCounter": 7507,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomIndex",
+            "isNameObsolete": false
+        },
+        "CustomField__cgcloud__Order_Template__c.HKey__c": {
+            "serverRevisionCounter": 7508,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomIndex__cgcloud__Order_Template__c.HKey__c": {
+            "serverRevisionCounter": 7510,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomIndex",
+            "isNameObsolete": false
+        },
+        "CustomField__cgcloud__Promotion_Template__c.HKey__c": {
+            "serverRevisionCounter": 7511,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomIndex__cgcloud__Promotion_Template__c.HKey__c": {
+            "serverRevisionCounter": 7513,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomIndex",
+            "isNameObsolete": false
+        },
+        "CustomField__cgcloud__Workflow__c.HKey__c": {
+            "serverRevisionCounter": 7514,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomIndex__cgcloud__Workflow__c.HKey__c": {
+            "serverRevisionCounter": 7516,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomIndex",
+            "isNameObsolete": false
+        },
+        "CustomField__cgcloud__Job_Template__c.HKey__c": {
+            "serverRevisionCounter": 7517,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "Layout__cgcloud__Job_Template__c-cgcloud__Job Template Layout": {
+            "serverRevisionCounter": 7525,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "CustomIndex__cgcloud__Job_Template__c.HKey__c": {
+            "serverRevisionCounter": 7520,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomIndex",
+            "isNameObsolete": false
+        },
+        "ValidationRule__cgcloud__Promotion_Template__c.cgcloud__Hierarchies_With_Copy_Usage": {
+            "serverRevisionCounter": 7526,
+            "lastRetrievedFromServer": null,
+            "memberType": "ValidationRule",
+            "isNameObsolete": false
+        },
+        "ValidationRule__cgcloud__CP_Search_Strategy__c.cgcloud__Check_if_has_steps_before_activating": {
+            "serverRevisionCounter": 7527,
+            "lastRetrievedFromServer": null,
+            "memberType": "ValidationRule",
+            "isNameObsolete": false
+        },
+        "ValidationRule__cgcloud__System_Number__c.cgcloud__Segment_Type_Validation": {
+            "serverRevisionCounter": 7528,
+            "lastRetrievedFromServer": null,
+            "memberType": "ValidationRule",
+            "isNameObsolete": false
+        },
+        "Translations__es_MX": {
+            "serverRevisionCounter": 7529,
+            "lastRetrievedFromServer": null,
+            "memberType": "Translations",
+            "isNameObsolete": false
+        },
+        "Profile__CGCloud_Batch_User": {
+            "serverRevisionCounter": 53987,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "ProfilePasswordPolicy__CGCloud_Batch_User_profilePasswordPolicy1701110843911": {
+            "serverRevisionCounter": 7531,
+            "lastRetrievedFromServer": null,
+            "memberType": "ProfilePasswordPolicy",
+            "isNameObsolete": false
+        },
+        "ProfileSessionSetting__null_profileSessionSetting1701110843964": {
+            "serverRevisionCounter": 7532,
+            "lastRetrievedFromServer": null,
+            "memberType": "ProfileSessionSetting",
+            "isNameObsolete": false
+        },
+        "Profile__CGCloud_User_Profile_Non_Sales": {
+            "serverRevisionCounter": 53989,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "ProfilePasswordPolicy__CGCloud_User_Profile_Non_Sales_profilePasswordPolicy1701110880747": {
+            "serverRevisionCounter": 7534,
+            "lastRetrievedFromServer": null,
+            "memberType": "ProfilePasswordPolicy",
+            "isNameObsolete": false
+        },
+        "ProfileSessionSetting__null_profileSessionSetting1701110880789": {
+            "serverRevisionCounter": 7535,
+            "lastRetrievedFromServer": null,
+            "memberType": "ProfileSessionSetting",
+            "isNameObsolete": false
+        },
+        "Profile__CGCloud_User_Profile": {
+            "serverRevisionCounter": 53988,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "ProfilePasswordPolicy__CGCloud_User_Profile_profilePasswordPolicy1701110910320": {
+            "serverRevisionCounter": 7537,
+            "lastRetrievedFromServer": null,
+            "memberType": "ProfilePasswordPolicy",
+            "isNameObsolete": false
+        },
+        "ProfileSessionSetting__null_profileSessionSetting1701110910360": {
+            "serverRevisionCounter": 7538,
+            "lastRetrievedFromServer": null,
+            "memberType": "ProfileSessionSetting",
+            "isNameObsolete": false
+        },
+        "Profile__CGCloud_Basic_Sync_Admin_Profile": {
+            "serverRevisionCounter": 53986,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "ProfilePasswordPolicy__CGCloud_Basic_Sync_Admin_Profile_profilePasswordPolicy1701111053742": {
+            "serverRevisionCounter": 7540,
+            "lastRetrievedFromServer": null,
+            "memberType": "ProfilePasswordPolicy",
+            "isNameObsolete": false
+        },
+        "ProfileSessionSetting__null_profileSessionSetting1701111053788": {
+            "serverRevisionCounter": 7541,
+            "lastRetrievedFromServer": null,
+            "memberType": "ProfileSessionSetting",
+            "isNameObsolete": false
+        },
+        "Layout__User-Formato de usuario": {
+            "serverRevisionCounter": 34553,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__Product2-Formato de productos": {
+            "serverRevisionCounter": 7543,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "CustomObject__Assortment": {
+            "serverRevisionCounter": 7572,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "Layout__Visit-cgcloud__Call Layout": {
+            "serverRevisionCounter": 9730,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__Visit-cgcloud__Read Only": {
+            "serverRevisionCounter": 57193,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "CustomObject__cgcloud__Order__c": {
+            "serverRevisionCounter": 51343,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "Settings__Name": {
+            "serverRevisionCounter": 7631,
+            "lastRetrievedFromServer": null,
+            "memberType": "Settings",
+            "isNameObsolete": false
+        },
+        "Layout__cgcloud__Job_Definition_List_Template__c-cgcloud__Job Definition List Template Layout": {
+            "serverRevisionCounter": 7682,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Profile__CCN Comercial": {
+            "serverRevisionCounter": 53982,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "ConnectedApp__CG_UAT_App": {
+            "serverRevisionCounter": 7663,
+            "lastRetrievedFromServer": null,
+            "memberType": "ConnectedApp",
+            "isNameObsolete": false
+        },
+        "CustomObjectTranslation__Assortment-en_US": {
+            "serverRevisionCounter": 7665,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObjectTranslation",
+            "isNameObsolete": false
+        },
+        "CustomObjectTranslation__AssortmentProduct-en_US": {
+            "serverRevisionCounter": 7666,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObjectTranslation",
+            "isNameObsolete": false
+        },
+        "CustomObjectTranslation__StoreAssortment-en_US": {
+            "serverRevisionCounter": 7667,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObjectTranslation",
+            "isNameObsolete": false
+        },
+        "ApexClass__FacturasDocumentsApi": {
+            "serverRevisionCounter": 26363,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": true
+        },
+        "Workflow__cgcloud__Account_Extension__c": {
+            "serverRevisionCounter": 7686,
+            "lastRetrievedFromServer": null,
+            "memberType": "Workflow",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Cuenta_P_gina_de_registro4": {
+            "serverRevisionCounter": 55218,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "Layout__Account-CCN Distribuidores": {
+            "serverRevisionCounter": 49056,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "PermissionSet__Cuentas_Tipo_5": {
+            "serverRevisionCounter": 8712,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__Cuentas_Tipo_5_CA": {
+            "serverRevisionCounter": 11630,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "CustomMetadata__Configuracion_Jobs.Consulta_Cuentas": {
+            "serverRevisionCounter": 45076,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomMetadata",
+            "isNameObsolete": false
+        },
+        "CustomField__Account.RFC__c": {
+            "serverRevisionCounter": 8723,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomMetadata__NotificacionesErrores.Conuslta_Cuentas_CA": {
+            "serverRevisionCounter": 19897,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomMetadata",
+            "isNameObsolete": true
+        },
+        "CustomMetadata__NotificacionesErrores.Consulta_Cuentas_PGH": {
+            "serverRevisionCounter": 19898,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomMetadata",
+            "isNameObsolete": true
+        },
+        "CustomMetadata__NotificacionesErrores.Conuslta_Cuentas_PGS": {
+            "serverRevisionCounter": 19896,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomMetadata",
+            "isNameObsolete": true
+        },
+        "CorsWhitelistOrigin__http_localhost_3000": {
+            "serverRevisionCounter": 8744,
+            "lastRetrievedFromServer": null,
+            "memberType": "CorsWhitelistOrigin",
+            "isNameObsolete": false
+        },
+        "ListView__cgcloud__Custom_Permission_User_Role_Mapping__c.cgcloud__All": {
+            "serverRevisionCounter": 8764,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "Flow__CMX_Envia_notificaciones_de_visita": {
+            "serverRevisionCounter": 18105,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "CustomLabel__ID_Task_User_Notification": {
+            "serverRevisionCounter": 9288,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomLabel",
+            "isNameObsolete": false
+        },
+        "Flow__CMX_Visita_editada": {
+            "serverRevisionCounter": 35160,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "Layout__Visit-cgcloud__Delivery Visit": {
+            "serverRevisionCounter": 57200,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Profile__Analista Soporte Comercial CMX": {
+            "serverRevisionCounter": 53977,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Asistente de Dirección": {
+            "serverRevisionCounter": 53978,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Asistente de Dirección P": {
+            "serverRevisionCounter": 53979,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Asistentes Administrativas": {
+            "serverRevisionCounter": 53980,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Asistentes Administrativas_SF": {
+            "serverRevisionCounter": 53981,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__CCN Director Comercial": {
+            "serverRevisionCounter": 53983,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__CCN Mercadeo": {
+            "serverRevisionCounter": 53984,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__CCN Super User": {
+            "serverRevisionCounter": 53985,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Chofer": {
+            "serverRevisionCounter": 51358,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Cliente": {
+            "serverRevisionCounter": 51359,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Cuentas por cobrar": {
+            "serverRevisionCounter": 53990,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Desarrollo de Productos": {
+            "serverRevisionCounter": 53991,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Desarrollo de Productos CMX": {
+            "serverRevisionCounter": 53992,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__DG": {
+            "serverRevisionCounter": 53993,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__DG P": {
+            "serverRevisionCounter": 53994,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Dirección de Especificación": {
+            "serverRevisionCounter": 53995,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Dirección de Especificación P": {
+            "serverRevisionCounter": 53996,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Director": {
+            "serverRevisionCounter": 53997,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Director_SF": {
+            "serverRevisionCounter": 53998,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Director Comercial": {
+            "serverRevisionCounter": 53999,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Director Comercial P": {
+            "serverRevisionCounter": 54000,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Director DPC": {
+            "serverRevisionCounter": 54001,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Director General": {
+            "serverRevisionCounter": 54002,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Director General AQP": {
+            "serverRevisionCounter": 54003,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Director General P": {
+            "serverRevisionCounter": 54004,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Director OVN": {
+            "serverRevisionCounter": 54005,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC": {
+            "serverRevisionCounter": 54006,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC CMX": {
+            "serverRevisionCounter": 54007,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC CMX Bajío": {
+            "serverRevisionCounter": 54008,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC CMX Centro": {
+            "serverRevisionCounter": 54009,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC CMX Golfo": {
+            "serverRevisionCounter": 54010,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC CMX Noreste": {
+            "serverRevisionCounter": 54011,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC CMX Norte": {
+            "serverRevisionCounter": 54012,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC CMX Occidente": {
+            "serverRevisionCounter": 54013,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC CMX Pacífico": {
+            "serverRevisionCounter": 54014,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC CMX Sureste": {
+            "serverRevisionCounter": 54015,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC Especificación": {
+            "serverRevisionCounter": 54016,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC Especificación CCN": {
+            "serverRevisionCounter": 54017,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC Especificación CMX": {
+            "serverRevisionCounter": 54018,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC Especificación P": {
+            "serverRevisionCounter": 54019,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GC P": {
+            "serverRevisionCounter": 54020,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Gerente AQP": {
+            "serverRevisionCounter": 54021,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Gerente Desarrollo Comercial": {
+            "serverRevisionCounter": 54022,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GM AQP": {
+            "serverRevisionCounter": 54023,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GM CMX_SF": {
+            "serverRevisionCounter": 54024,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GM UBC_SF": {
+            "serverRevisionCounter": 54025,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR": {
+            "serverRevisionCounter": 54026,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR_SF": {
+            "serverRevisionCounter": 54027,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR_SF_AQP": {
+            "serverRevisionCounter": 54028,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR_SF UBC": {
+            "serverRevisionCounter": 54029,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR AQP": {
+            "serverRevisionCounter": 54030,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR CMX": {
+            "serverRevisionCounter": 54031,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR CMX Bajío": {
+            "serverRevisionCounter": 54032,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR CMX Centro": {
+            "serverRevisionCounter": 54033,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR CMX Centro SF": {
+            "serverRevisionCounter": 54034,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR CMX Golfo": {
+            "serverRevisionCounter": 54035,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR CMX Hibrido Noreste": {
+            "serverRevisionCounter": 54036,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR CMX Hibrido Occidente": {
+            "serverRevisionCounter": 54037,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR CMX Noreste": {
+            "serverRevisionCounter": 54038,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR CMX Norte": {
+            "serverRevisionCounter": 54039,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR CMX Occidente": {
+            "serverRevisionCounter": 54040,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR CMX Pacífico": {
+            "serverRevisionCounter": 54041,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR CMX Pacífico SF": {
+            "serverRevisionCounter": 54042,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR CMX Sodimac": {
+            "serverRevisionCounter": 54043,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR CMX Sureste": {
+            "serverRevisionCounter": 54044,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR Especificación": {
+            "serverRevisionCounter": 54045,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR Especificación CCN": {
+            "serverRevisionCounter": 54046,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR Especificación CMX": {
+            "serverRevisionCounter": 54047,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR Especificación CMX_SF": {
+            "serverRevisionCounter": 54048,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR Especificación P": {
+            "serverRevisionCounter": 54049,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR Especificación UBC": {
+            "serverRevisionCounter": 54050,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR Especificación UBC_SF": {
+            "serverRevisionCounter": 54051,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR Hibrido": {
+            "serverRevisionCounter": 54052,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GR Test": {
+            "serverRevisionCounter": 54053,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GTE CTA CLAVE UBC": {
+            "serverRevisionCounter": 54054,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__GTE PC": {
+            "serverRevisionCounter": 54055,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Mercadotecnia": {
+            "serverRevisionCounter": 54056,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Mercadotecnia CMX": {
+            "serverRevisionCounter": 54057,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Mercadotecnia P": {
+            "serverRevisionCounter": 54058,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__PGE Comercial": {
+            "serverRevisionCounter": 54059,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Portal Aquaplas": {
+            "serverRevisionCounter": 51430,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Portal Cemix": {
+            "serverRevisionCounter": 51431,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Portal Uniblock": {
+            "serverRevisionCounter": 51432,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Promotor": {
+            "serverRevisionCounter": 54060,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Promotor CMX": {
+            "serverRevisionCounter": 54061,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Promotor CMX Centro": {
+            "serverRevisionCounter": 54062,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Promotor CMX Pacífico": {
+            "serverRevisionCounter": 54063,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Promotor UBC": {
+            "serverRevisionCounter": 54064,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Proyectos Comercial CCN": {
+            "serverRevisionCounter": 54065,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Read Only": {
+            "serverRevisionCounter": 54066,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Soporte Comercial UBC": {
+            "serverRevisionCounter": 54067,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Transportista": {
+            "serverRevisionCounter": 51442,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Transportista AQP": {
+            "serverRevisionCounter": 51443,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Transportista Interno": {
+            "serverRevisionCounter": 51444,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Usuario CS": {
+            "serverRevisionCounter": 54069,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Usuario CS_SF": {
+            "serverRevisionCounter": 54070,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Usuario estándar Custom": {
+            "serverRevisionCounter": 54071,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Usuario GM´s": {
+            "serverRevisionCounter": 54072,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Usuario Operaciones y Lab": {
+            "serverRevisionCounter": 54073,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Usuario Operaciones y Lab_SF": {
+            "serverRevisionCounter": 54074,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Usuarios GM´s CMX": {
+            "serverRevisionCounter": 54075,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Usuarios GM´s CMX_SF": {
+            "serverRevisionCounter": 54076,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Usuarios GM´s P": {
+            "serverRevisionCounter": 54077,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Usuarios GM´s P_SF": {
+            "serverRevisionCounter": 54078,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Layout__cgc_sync__Sync_Mobile_App_PL_Repo__c-cgc_sync__Mobile App Picklist Repository Layout": {
+            "serverRevisionCounter": 9733,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "RecordType__Visit.cgcloud__Default": {
+            "serverRevisionCounter": 9754,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Visit.cgcloud__Delivery_Visit": {
+            "serverRevisionCounter": 9755,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Visit.cgcloud__Editable": {
+            "serverRevisionCounter": 9756,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Visit.cgcloud__Read_Only": {
+            "serverRevisionCounter": 9757,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "CustomField__Visit.cgcloud__Reason_Code__c": {
+            "serverRevisionCounter": 9758,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "Flow__CMX_Envia_notificaci_n_de_resumen_a_GC": {
+            "serverRevisionCounter": 11386,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "CustomLabel__ID_Notificaci_n_General": {
+            "serverRevisionCounter": 41931,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomLabel",
+            "isNameObsolete": false
+        },
+        "PermissionSetGroup__Consumer_Goods": {
+            "serverRevisionCounter": 61401,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSetGroup",
+            "isNameObsolete": false
+        },
+        "Layout__cgcloud__User_Setting__c-cgcloud__User Setting Layout": {
+            "serverRevisionCounter": 10626,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__cgcloud__User_Accountable__c-cgcloud__User Accountable Layout": {
+            "serverRevisionCounter": 10638,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Flow__CMX_Visita_Completada": {
+            "serverRevisionCounter": 36505,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "CustomField__Visit.Visit_Jobs_Lists__c": {
+            "serverRevisionCounter": 35699,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": true
+        },
+        "FlexiPage__Call_Record_Page1": {
+            "serverRevisionCounter": 11171,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "CustomField__User.Usuario_CG__c": {
+            "serverRevisionCounter": 11206,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "Layout__CommunityMemberLayout-Community Member Layout": {
+            "serverRevisionCounter": 11207,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__UserAlt-Formato Perfil de usuario": {
+            "serverRevisionCounter": 11208,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__User-cgcloud__User Custom Layout": {
+            "serverRevisionCounter": 11210,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "ReportType__ch_dashboards__Chatter_User_Activity_1_0": {
+            "serverRevisionCounter": 11321,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__Usuarios_con_campa_a_de_precios": {
+            "serverRevisionCounter": 11322,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__Inventario_para_visita": {
+            "serverRevisionCounter": 11323,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__Usuarios_con_oportunidades": {
+            "serverRevisionCounter": 11324,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__Usuarios_con_prospectos": {
+            "serverRevisionCounter": 11325,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__Usuarios_con_visitas": {
+            "serverRevisionCounter": 11326,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__Usuarios_con_apoyos_de_mercadotecnia": {
+            "serverRevisionCounter": 11327,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "Layout__cgcloud__Account_Extension__c-cgcloud__Account Extension Layout": {
+            "serverRevisionCounter": 18039,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Call_Job_Lightning_page1": {
+            "serverRevisionCounter": 11526,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "CustomObject__cgcloud__Visit_Job__c": {
+            "serverRevisionCounter": 11489,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "CustomMetadata__NotificacionesErrores.Consulta_Cuentas_PGE": {
+            "serverRevisionCounter": 19899,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomMetadata",
+            "isNameObsolete": true
+        },
+        "RecordType__Account.Muestras": {
+            "serverRevisionCounter": 55047,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Account.Transportista": {
+            "serverRevisionCounter": 55049,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Account.NuevoDistribuidore": {
+            "serverRevisionCounter": 55048,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Account.cgcloud__Customer": {
+            "serverRevisionCounter": 55044,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Account.Especificadores": {
+            "serverRevisionCounter": 55046,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "CustomField__Account.ClavePais__c": {
+            "serverRevisionCounter": 55050,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "ListView__Account.Todas_las_cuentas_CCN": {
+            "serverRevisionCounter": 11608,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "ListView__Account.Todas_las_cuentas_PGE": {
+            "serverRevisionCounter": 11616,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "CustomLabel__Correo_Aviso_Canal_Moderno_FOP": {
+            "serverRevisionCounter": 11625,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomLabel",
+            "isNameObsolete": false
+        },
+        "CustomLabel__Correo_Aviso_MKT": {
+            "serverRevisionCounter": 29583,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomLabel",
+            "isNameObsolete": false
+        },
+        "ListView__Visit.All_Visit": {
+            "serverRevisionCounter": 34058,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "ApexClass__Accounts": {
+            "serverRevisionCounter": 33520,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "Layout__Desarrollo_de_Productos__c-Formato Desarrollo de Productos": {
+            "serverRevisionCounter": 66000,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Flow__FB_CrearTareaInicial": {
+            "serverRevisionCounter": 16641,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "CustomObjectTranslation__Activity-en_US": {
+            "serverRevisionCounter": 18600,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObjectTranslation",
+            "isNameObsolete": false
+        },
+        "CustomObjectTranslation__Activity-es_MX": {
+            "serverRevisionCounter": 18599,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObjectTranslation",
+            "isNameObsolete": false
+        },
+        "CustomObjectTranslation__Activity-es": {
+            "serverRevisionCounter": 18598,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObjectTranslation",
+            "isNameObsolete": false
+        },
+        "Layout__Aprobacion_Task__c-Aprobacion Task Layout": {
+            "serverRevisionCounter": 16642,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Report__unfiled$public/Product_development_with_task_Jj9": {
+            "serverRevisionCounter": 25196,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Flow__FB_CrearTareasSubsecuentes2": {
+            "serverRevisionCounter": 17452,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "ValidationRule__Task.RV_TareaRechazada": {
+            "serverRevisionCounter": 17520,
+            "lastRetrievedFromServer": null,
+            "memberType": "ValidationRule",
+            "isNameObsolete": false
+        },
+        "Flow__FB_EnviodeNotificacionesporAprobacion": {
+            "serverRevisionCounter": 17502,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "Flow__FB_EnviarProcesoAprobacionDesarrolloProducto": {
+            "serverRevisionCounter": 17519,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "ValidationRule__cgcloud__Job_Definition_Template__c.cgcloud__Data_Type_Job_Template": {
+            "serverRevisionCounter": 17526,
+            "lastRetrievedFromServer": null,
+            "memberType": "ValidationRule",
+            "isNameObsolete": false
+        },
+        "Layout__NotaCredito__c-CR": {
+            "serverRevisionCounter": 18024,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__NotaCredito__c-RE": {
+            "serverRevisionCounter": 18026,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "CustomField__Visit.AccountId": {
+            "serverRevisionCounter": 18040,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "Layout__Account-Muestras": {
+            "serverRevisionCounter": 18033,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__Task-Flujo Desarrollo de productos layout": {
+            "serverRevisionCounter": 18124,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "ListView__Regiones__c.Todos": {
+            "serverRevisionCounter": 18623,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "ListView__Zonas_de_Transporte__c.All": {
+            "serverRevisionCounter": 18611,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "ListView__Paises__c.All": {
+            "serverRevisionCounter": 18617,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "Layout__Paises__c-País Layout": {
+            "serverRevisionCounter": 18619,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__cgcloud__Visit_Template__c-cgcloud__Visit Template Layout": {
+            "serverRevisionCounter": 18633,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "ListView__Facturas__c.All1": {
+            "serverRevisionCounter": 27438,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "ListView__User.AllUsers": {
+            "serverRevisionCounter": 67248,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "CustomField__Account.Uso_de_CFDI__c": {
+            "serverRevisionCounter": 18656,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__Account.R_gimen_fiscal__c": {
+            "serverRevisionCounter": 18664,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "ProfilePasswordPolicy__Desarrollo_de_Productos_CMX_profilePasswordPolicy1617210850904": {
+            "serverRevisionCounter": 18671,
+            "lastRetrievedFromServer": null,
+            "memberType": "ProfilePasswordPolicy",
+            "isNameObsolete": false
+        },
+        "Report__GestinCCN/CCN_Visitas_E93": {
+            "serverRevisionCounter": 42006,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "CustomField__Activity.Fecha_de_finalizaci_n__c": {
+            "serverRevisionCounter": 18898,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "Report__GestinCCN/CCN_Comparacin_de_Cumplimiento_kmU": {
+            "serverRevisionCounter": 18929,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Dashboard__GestinCCN/wHCBjVJfvyTPlwNINjnnCRVmDRwWDy": {
+            "serverRevisionCounter": 42011,
+            "lastRetrievedFromServer": null,
+            "memberType": "Dashboard",
+            "isNameObsolete": false
+        },
+        "Report__GestinCCN/CCN_Visitas_Completadas_71R": {
+            "serverRevisionCounter": 18924,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "ApexClass__NotaCreditoSelector": {
+            "serverRevisionCounter": 19411,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__NotasCreditoServiceImpl": {
+            "serverRevisionCounter": 23759,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "RemoteSiteSetting__qacm": {
+            "serverRevisionCounter": 19414,
+            "lastRetrievedFromServer": null,
+            "memberType": "RemoteSiteSetting",
+            "isNameObsolete": false
+        },
+        "CustomLabel__ID_Account_Especificadores": {
+            "serverRevisionCounter": 19905,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomLabel",
+            "isNameObsolete": false
+        },
+        "CustomLabel__ID_Account_Muestras": {
+            "serverRevisionCounter": 19906,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomLabel",
+            "isNameObsolete": false
+        },
+        "Flow__CMX_Cuenta_creada": {
+            "serverRevisionCounter": 52264,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "ListView__cgcloud__Account_Task_Template__c.cgcloud__All": {
+            "serverRevisionCounter": 19914,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "Layout__Desarrollo_de_Productos__c-Formato Desarrollo de Productos Demo": {
+            "serverRevisionCounter": 29093,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__addProductsNotaCredito": {
+            "serverRevisionCounter": 51298,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__addProductsNotaCredito/addProductsNotaCredito.js-meta.xml": {
+            "serverRevisionCounter": 51299,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__addProductsNotaCredito/addProductsNotaCredito.js": {
+            "serverRevisionCounter": 51300,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__addProductsNotaCredito/addProductsNotaCredito.css": {
+            "serverRevisionCounter": 51301,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "QuickAction__NotaCredito__c.Agregar_Productos": {
+            "serverRevisionCounter": 23141,
+            "lastRetrievedFromServer": null,
+            "memberType": "QuickAction",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__addProductsNotaCredito/addProductsNotaCredito.html": {
+            "serverRevisionCounter": 51302,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "ListView__Account.cgcloud__AllAccounts": {
+            "serverRevisionCounter": 60254,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "Settings__Activities": {
+            "serverRevisionCounter": 23728,
+            "lastRetrievedFromServer": null,
+            "memberType": "Settings",
+            "isNameObsolete": false
+        },
+        "Flow__FB_ActualizarTareasRechazadas": {
+            "serverRevisionCounter": 25865,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "ApexClass__ReceivedDocumentsServiceImpl": {
+            "serverRevisionCounter": 55240,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Facturas_Record_Page2": {
+            "serverRevisionCounter": 27385,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "Layout__Facturas__c-Facturas Admin": {
+            "serverRevisionCounter": 28100,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "CustomField__Account.Act__c": {
+            "serverRevisionCounter": 27439,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "ReportType__Cuentas_con_Destinatarios_de_Mercanc_a": {
+            "serverRevisionCounter": 27473,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__Clientes_con_visitas": {
+            "serverRevisionCounter": 27474,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__Oportunidades_de_candidatos_convertidos": {
+            "serverRevisionCounter": 27475,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__Cuentas_con_facturas_y_productos": {
+            "serverRevisionCounter": 27476,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "CustomField__Account.C_digo_Pa_s__c": {
+            "serverRevisionCounter": 27452,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__Account.C_digo_Regi_n__c": {
+            "serverRevisionCounter": 27464,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "Layout__Account-CCN - Destinatario de Mercancía": {
+            "serverRevisionCounter": 27592,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": true
+        },
+        "RecordType__Account.Destinatarios_de_Mercanc_a": {
+            "serverRevisionCounter": 27591,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": true
+        },
+        "Layout__ReceivedDocument-Formato Documento recibido": {
+            "serverRevisionCounter": 28075,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "RemoteSiteSetting__Acuses": {
+            "serverRevisionCounter": 28101,
+            "lastRetrievedFromServer": null,
+            "memberType": "RemoteSiteSetting",
+            "isNameObsolete": false
+        },
+        "Settings__FileUploadAndDownloadSecurity": {
+            "serverRevisionCounter": 28102,
+            "lastRetrievedFromServer": null,
+            "memberType": "Settings",
+            "isNameObsolete": false
+        },
+        "ValidationRule__Facturas__c.Fin_de_descarga_a_Entregado": {
+            "serverRevisionCounter": 28108,
+            "lastRetrievedFromServer": null,
+            "memberType": "ValidationRule",
+            "isNameObsolete": false
+        },
+        "ListView__Product2.AllProducts": {
+            "serverRevisionCounter": 55254,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "ListView__cgcloud__Visit_Template__c.cgcloud__All": {
+            "serverRevisionCounter": 29582,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "Flow__CMX_Visit_Job_Creado": {
+            "serverRevisionCounter": 29597,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "ReportType__Customer_Managers": {
+            "serverRevisionCounter": 29699,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ApexClass__AccountsServiceImpl": {
+            "serverRevisionCounter": 55054,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ListView__Account.AllAccounts": {
+            "serverRevisionCounter": 67243,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "ListView__Facturas__c.All": {
+            "serverRevisionCounter": 34047,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "ListView__ReceivedDocument.All_ReceivedDocuments": {
+            "serverRevisionCounter": 34040,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "Flow__FB_DetonarProcesoAprobacion": {
+            "serverRevisionCounter": 34551,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "ReportFolder__PedidosCCN": {
+            "serverRevisionCounter": 34621,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Order_Template_Lightning1": {
+            "serverRevisionCounter": 37630,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Order_Template_Lightning2": {
+            "serverRevisionCounter": 37662,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "CustomObject__cgcloud__Order_Template__c": {
+            "serverRevisionCounter": 37661,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "Layout__cgcloud__Order_Template__c-cgcloud__Order Template Layout": {
+            "serverRevisionCounter": 38240,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "CustomField__cgcloud__Order__c.cgcloud__Currency__c": {
+            "serverRevisionCounter": 38241,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "ApexClass__AdvancedOrderSelector": {
+            "serverRevisionCounter": 39811,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "Layout__Account-cgcloud__Customer Layout": {
+            "serverRevisionCounter": 39098,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "CustomApplication__CEMIX": {
+            "serverRevisionCounter": 39285,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomApplication",
+            "isNameObsolete": false
+        },
+        "Layout__Product2-cgcloud__Product Layout 2": {
+            "serverRevisionCounter": 41968,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "CustomField__cgcloud__Sales_Organization__c.cgcloud__Currency__c": {
+            "serverRevisionCounter": 42014,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__cgcloud__Order__c.cgcloud__Receipt_Currency__c": {
+            "serverRevisionCounter": 42015,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Advance_Order": {
+            "serverRevisionCounter": 55509,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "RecordType__Product2.cgcloud__Product": {
+            "serverRevisionCounter": 43628,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Product2.cgcloud__Product_Group": {
+            "serverRevisionCounter": 43629,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "CustomField__Product2.cgcloud__Category__c": {
+            "serverRevisionCounter": 43630,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__cgcloud__Order__c.DestinatarioMercancia__c": {
+            "serverRevisionCounter": 51344,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "PermissionSet__Solicitudes_Precio_Permision_Set": {
+            "serverRevisionCounter": 44822,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "ApexClass__ListaSolicitudesController": {
+            "serverRevisionCounter": 52841,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__Email_Utilities": {
+            "serverRevisionCounter": 44799,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexTrigger__ConjuntoSolicitudesTrigger": {
+            "serverRevisionCounter": 44814,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexTrigger",
+            "isNameObsolete": false
+        },
+        "ListView__Pricebook2.todas": {
+            "serverRevisionCounter": 44819,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "CustomObject__Solicitud__c": {
+            "serverRevisionCounter": 56149,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "ReportType__flow_orchestration_run_ootb_crt_two_four_eight": {
+            "serverRevisionCounter": 45057,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__flow_orchestration_stage_run_ootb_crt_two_four_eight": {
+            "serverRevisionCounter": 45059,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__flow_orchestration_step_run_ootb_crt_two_four_eight": {
+            "serverRevisionCounter": 45061,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__flow_orchestration_work_item_ootb_crt_two_four_eight": {
+            "serverRevisionCounter": 45063,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__flow_orchestration_log_ootb_crt_two_four_eight": {
+            "serverRevisionCounter": 45065,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "Flow__FB_AutorizarTareas": {
+            "serverRevisionCounter": 56386,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "ListView__cgc_sync__Sync_Mobile_App_Depl_Pkg_As__c.cgc_sync__All": {
+            "serverRevisionCounter": 45884,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "CustomField__Account.No_Cliente_SAP__c": {
+            "serverRevisionCounter": 48157,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "Flow__CMX_Order_Item_Creado": {
+            "serverRevisionCounter": 57026,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "Layout__Assortment-Formato de Gama": {
+            "serverRevisionCounter": 48780,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__Account-CCN - Destinatario de Mercancia": {
+            "serverRevisionCounter": 55219,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "ApexClass__SendOrderSAPComponentController": {
+            "serverRevisionCounter": 48766,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "Layout__Lead-Distribuidor": {
+            "serverRevisionCounter": 48827,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "CustomField__Account.Parent": {
+            "serverRevisionCounter": 49029,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "QuickAction__cgcloud__Order__c.Editar_Orden": {
+            "serverRevisionCounter": 49038,
+            "lastRetrievedFromServer": null,
+            "memberType": "QuickAction",
+            "isNameObsolete": false
+        },
+        "Layout__cgcloud__Order__c-CCN-Orders": {
+            "serverRevisionCounter": 49606,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "ValidationRule__cgcloud__Order__c.Cuenta_Principal_y_Customer": {
+            "serverRevisionCounter": 57121,
+            "lastRetrievedFromServer": null,
+            "memberType": "ValidationRule",
+            "isNameObsolete": false
+        },
+        "ValidationRule__cgcloud__Order__c.RV_Customer_Full": {
+            "serverRevisionCounter": 52826,
+            "lastRetrievedFromServer": null,
+            "memberType": "ValidationRule",
+            "isNameObsolete": false
+        },
+        "PermissionSet__Crear_Nueva_Orden_Avanzada": {
+            "serverRevisionCounter": 51336,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__acusesEntregaFacturasComponent": {
+            "serverRevisionCounter": 51294,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__acusesEntregaFacturasComponent/acusesEntregaFacturasComponent.js": {
+            "serverRevisionCounter": 51295,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__acusesEntregaFacturasComponent/acusesEntregaFacturasComponent.js-meta.xml": {
+            "serverRevisionCounter": 51296,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__acusesEntregaFacturasComponent/acusesEntregaFacturasComponent.html": {
+            "serverRevisionCounter": 51297,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "ApexClass__AdvancedOrderItemSelector": {
+            "serverRevisionCounter": 51270,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__AdvancedOrderService": {
+            "serverRevisionCounter": 51271,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__AdvancedOrderServiceImpl": {
+            "serverRevisionCounter": 55224,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__AdvancedOrderServiceTest": {
+            "serverRevisionCounter": 51273,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__AsgnFleteAdvOrderComponentController": {
+            "serverRevisionCounter": 51274,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__AsgnFleteAdvOrderComponentControllerTest": {
+            "serverRevisionCounter": 51275,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__CustomLookupLwcControllerTest": {
+            "serverRevisionCounter": 51276,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__IAdvancedOrderService": {
+            "serverRevisionCounter": 51277,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__IProductsSelector": {
+            "serverRevisionCounter": 51278,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__MockConsultFileHttpResponse": {
+            "serverRevisionCounter": 51279,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__NewSolicitudOverrideControllerTest": {
+            "serverRevisionCounter": 51280,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__ProductsSelector": {
+            "serverRevisionCounter": 51281,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__ProductsSelectorTest": {
+            "serverRevisionCounter": 51282,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__SAPTipoCambioCAWSMock": {
+            "serverRevisionCounter": 51284,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__SolicitudesPrecioServiceTest": {
+            "serverRevisionCounter": 51285,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__Test_WSCemix": {
+            "serverRevisionCounter": 51286,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__UpdatePricebookInvocableTest": {
+            "serverRevisionCounter": 51287,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__sapGetRutasCAWS": {
+            "serverRevisionCounter": 51288,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__sapGetRutasCAWSMock": {
+            "serverRevisionCounter": 51289,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__sapPostNewPriceCAWSMock": {
+            "serverRevisionCounter": 51290,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "Flow__CMX_Nuevo_advanced_order": {
+            "serverRevisionCounter": 57120,
+            "lastRetrievedFromServer": null,
+            "memberType": "Flow",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__asgnFleteAdvOrderComponent": {
+            "serverRevisionCounter": 51303,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__asgnFleteAdvOrderComponent/asgnFleteAdvOrderComponent.html": {
+            "serverRevisionCounter": 51304,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__asgnFleteAdvOrderComponent/asgnFleteAdvOrderComponent.css": {
+            "serverRevisionCounter": 51305,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__asgnFleteAdvOrderComponent/asgnFleteAdvOrderComponent.js": {
+            "serverRevisionCounter": 51306,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__asgnFleteAdvOrderComponent/asgnFleteAdvOrderComponent.js-meta.xml": {
+            "serverRevisionCounter": 51307,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__communityEdoCuentaComponent": {
+            "serverRevisionCounter": 51308,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__communityEdoCuentaComponent/communityEdoCuentaComponent.js": {
+            "serverRevisionCounter": 51309,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__communityEdoCuentaComponent/communityEdoCuentaComponent.html": {
+            "serverRevisionCounter": 51310,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__communityEdoCuentaComponent/communityEdoCuentaComponent.js-meta.xml": {
+            "serverRevisionCounter": 51311,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__createNewOrderComponent": {
+            "serverRevisionCounter": 51312,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__createNewOrderComponent/createNewOrderComponent.css": {
+            "serverRevisionCounter": 51313,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__createNewOrderComponent/createNewOrderComponent.html": {
+            "serverRevisionCounter": 51314,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__createNewOrderComponent/createNewOrderComponent.js-meta.xml": {
+            "serverRevisionCounter": 51315,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__createNewOrderComponent/createNewOrderComponent.js": {
+            "serverRevisionCounter": 51316,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__customListView": {
+            "serverRevisionCounter": 51317,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__customListView/customListView.css": {
+            "serverRevisionCounter": 51318,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__customListView/customListView.html": {
+            "serverRevisionCounter": 51319,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__customListView/customListView.js": {
+            "serverRevisionCounter": 51320,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__customListView/customListView.js-meta.xml": {
+            "serverRevisionCounter": 51321,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__customLookupLwc": {
+            "serverRevisionCounter": 51322,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__customLookupLwc/customLookupLwc.js": {
+            "serverRevisionCounter": 51323,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__customLookupLwc/customLookupLwc.html": {
+            "serverRevisionCounter": 51324,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__customLookupLwc/customLookupLwc.js-meta.xml": {
+            "serverRevisionCounter": 51325,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__edoCuentaComponent": {
+            "serverRevisionCounter": 51326,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__edoCuentaComponent/edoCuentaComponent.css": {
+            "serverRevisionCounter": 51327,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__edoCuentaComponent/edoCuentaComponent.html": {
+            "serverRevisionCounter": 51328,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__edoCuentaComponent/edoCuentaComponent.js-meta.xml": {
+            "serverRevisionCounter": 51329,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__edoCuentaComponent/edoCuentaComponent.js": {
+            "serverRevisionCounter": 51330,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__filterComponent": {
+            "serverRevisionCounter": 51331,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__filterComponent/filterComponent.js-meta.xml": {
+            "serverRevisionCounter": 51332,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__filterComponent/filterComponent.html": {
+            "serverRevisionCounter": 51333,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__filterComponent/filterComponent.js": {
+            "serverRevisionCounter": 51334,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "FieldSet__cgcloud__Order__c.AvancedOrderSet": {
+            "serverRevisionCounter": 51335,
+            "lastRetrievedFromServer": null,
+            "memberType": "FieldSet",
+            "isNameObsolete": false
+        },
+        "AuraDefinitionBundle__NewSolicitudOverride": {
+            "serverRevisionCounter": 63750,
+            "lastRetrievedFromServer": null,
+            "memberType": "AuraDefinitionBundle",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__NewSolicitudOverride/NewSolicitudOverrideController.js": {
+            "serverRevisionCounter": 62089,
+            "lastRetrievedFromServer": null,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__NewSolicitudOverride/NewSolicitudOverrideHelper.js": {
+            "serverRevisionCounter": 63749,
+            "lastRetrievedFromServer": null,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "CustomField__Account.NoIdentFis1__c": {
+            "serverRevisionCounter": 52268,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "ApexClass__CustomEmailTemplates": {
+            "serverRevisionCounter": 52839,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "EmailTemplate__unfiled$public/Pedido_m_ltiplos_diferentes_aprobado": {
+            "serverRevisionCounter": 53961,
+            "lastRetrievedFromServer": null,
+            "memberType": "EmailTemplate",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__NewSolicitudOverride/NewSolicitudOverride.cmp": {
+            "serverRevisionCounter": 62088,
+            "lastRetrievedFromServer": null,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__NewSolicitudOverride/NewSolicitudOverride.css": {
+            "serverRevisionCounter": 62091,
+            "lastRetrievedFromServer": null,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "CustomField__cgcloud__Order_Item__c.Moneda__c": {
+            "serverRevisionCounter": 53975,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "Layout__cgcloud__Order_Item__c-cgcloud__Order Item Layout": {
+            "serverRevisionCounter": 54681,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "ApexClass__AcusesEntregaFacturasComponentCtrl": {
+            "serverRevisionCounter": 54944,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ListView__Product2.Productos_CA": {
+            "serverRevisionCounter": 55600,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "ApexClass__AdvancedOrder": {
+            "serverRevisionCounter": 55596,
+            "lastRetrievedFromServer": null,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "RecordType__Account.Destinatario_de_Mercanc_a": {
+            "serverRevisionCounter": 55045,
+            "lastRetrievedFromServer": null,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "CustomField__cgcloud__Order_Item__c.Planta__c": {
+            "serverRevisionCounter": 56934,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "PicklistValue__EC01": {
+            "serverRevisionCounter": 56931,
+            "lastRetrievedFromServer": null,
+            "memberType": "PicklistValue",
+            "isNameObsolete": false
+        },
+        "PicklistValue__EG01": {
+            "serverRevisionCounter": 56933,
+            "lastRetrievedFromServer": null,
+            "memberType": "PicklistValue",
+            "isNameObsolete": false
+        },
+        "PicklistValue__Initial": {
+            "serverRevisionCounter": 57034,
+            "lastRetrievedFromServer": null,
+            "memberType": "PicklistValue",
+            "isNameObsolete": false
+        },
+        "CustomField__cgcloud__Order__c.cgcloud__Phase__c": {
+            "serverRevisionCounter": 57037,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "Layout__Visit-Formato de Visita": {
+            "serverRevisionCounter": 59587,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "ListView__Inteligencia_de_mercado_precios__c.Campa_as_de_Precios_CA": {
+            "serverRevisionCounter": 60154,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "FieldSet__User.cgcloud__MobilityRelevant": {
+            "serverRevisionCounter": 60123,
+            "lastRetrievedFromServer": null,
+            "memberType": "FieldSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__CCN_General": {
+            "serverRevisionCounter": 61476,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "FieldSet__Product2.cgcloud__MobilityRelevant": {
+            "serverRevisionCounter": 60134,
+            "lastRetrievedFromServer": null,
+            "memberType": "FieldSet",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Visit_Record_Page1": {
+            "serverRevisionCounter": 64341,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "ListView__Inteligencia_de_mercado_precios__c.All": {
+            "serverRevisionCounter": 61417,
+            "lastRetrievedFromServer": null,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "Layout__Facturas__c-Facturas Community": {
+            "serverRevisionCounter": 64360,
+            "lastRetrievedFromServer": null,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "StaticResource__SNA_Tracking_de_Pedidos_Clientes1_sf_default_cdn_gx9Ho": {
+            "serverRevisionCounter": 66537,
+            "lastRetrievedFromServer": null,
+            "memberType": "StaticResource",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Seguimiento_Facturas1": {
+            "serverRevisionCounter": 67333,
+            "lastRetrievedFromServer": 67333,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "Audience__Uniblock": {
+            "serverRevisionCounter": 67334,
+            "lastRetrievedFromServer": null,
+            "memberType": "Audience",
+            "isNameObsolete": false
+        },
+        "Audience__Cemix": {
+            "serverRevisionCounter": 67336,
+            "lastRetrievedFromServer": null,
+            "memberType": "Audience",
+            "isNameObsolete": false
+        },
+        "ExperienceResource__Tracking_de_Pedidos_Clientes1/views/inicio.json": {
+            "serverRevisionCounter": 67337,
+            "lastRetrievedFromServer": null,
+            "memberType": "ExperienceResource",
+            "isNameObsolete": false
+        },
+        "ExperienceResource__Tracking_de_Pedidos_Clientes1/views/facturasEnProceso.json": {
+            "serverRevisionCounter": 67338,
+            "lastRetrievedFromServer": null,
+            "memberType": "ExperienceResource",
+            "isNameObsolete": false
+        },
+        "ExperienceBundle__Tracking_de_Pedidos_Clientes1": {
+            "serverRevisionCounter": 67462,
+            "lastRetrievedFromServer": 67462,
+            "memberType": "ExperienceBundle",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Menu_Aquaplas": {
+            "serverRevisionCounter": 67391,
+            "lastRetrievedFromServer": 67391,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Menu_Cemix": {
+            "serverRevisionCounter": 67393,
+            "lastRetrievedFromServer": 67393,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Bot_n_Cemix": {
+            "serverRevisionCounter": 67394,
+            "lastRetrievedFromServer": 67394,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Productos_Aquaplas": {
+            "serverRevisionCounter": 67395,
+            "lastRetrievedFromServer": 67395,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Productos_Cemix": {
+            "serverRevisionCounter": 67389,
+            "lastRetrievedFromServer": 67389,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "EmailTemplate__unfiled$public/CommunityChangePasswordEmailTemplate": {
+            "serverRevisionCounter": 67362,
+            "lastRetrievedFromServer": 67362,
+            "memberType": "EmailTemplate",
+            "isNameObsolete": false
+        },
+        "EmailTemplate__unfiled$public/CommunityChangePasswordEmailTemplatePortal": {
+            "serverRevisionCounter": 67363,
+            "lastRetrievedFromServer": 67363,
+            "memberType": "EmailTemplate",
+            "isNameObsolete": false
+        },
+        "EmailTemplate__unfiled$public/CommunityForgotPasswordEmailTemplatePortal": {
+            "serverRevisionCounter": 67364,
+            "lastRetrievedFromServer": 67364,
+            "memberType": "EmailTemplate",
+            "isNameObsolete": false
+        },
+        "SharingSet__Clientes": {
+            "serverRevisionCounter": 67365,
+            "lastRetrievedFromServer": 67365,
+            "memberType": "SharingSet",
+            "isNameObsolete": false
+        },
+        "Network__Tracking de Pedidos - Clientes": {
+            "serverRevisionCounter": 67463,
+            "lastRetrievedFromServer": 67463,
+            "memberType": "Network",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Desarrollo_de_Productos_P_gina_de_registro": {
+            "serverRevisionCounter": 67162,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "CustomField__Facturas__c.Vendedor__c": {
+            "serverRevisionCounter": 67164,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "PermissionSet__Portal_Clientes": {
+            "serverRevisionCounter": 67202,
+            "lastRetrievedFromServer": null,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Inicio": {
+            "serverRevisionCounter": 67469,
+            "lastRetrievedFromServer": 67469,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Default_Navigation2": {
+            "serverRevisionCounter": 67466,
+            "lastRetrievedFromServer": null,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Productos_Uniblock": {
+            "serverRevisionCounter": 67478,
+            "lastRetrievedFromServer": 67478,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "ExperienceResource__Tracking_de_Pedidos_Clientes1/themes/jepson.json": {
+            "serverRevisionCounter": 67399,
+            "lastRetrievedFromServer": null,
+            "memberType": "ExperienceResource",
+            "isNameObsolete": false
+        },
+        "ExperienceResource__Tracking_de_Pedidos_Clientes1/config/trackingDePedidosClientes.json": {
+            "serverRevisionCounter": 67424,
+            "lastRetrievedFromServer": null,
+            "memberType": "ExperienceResource",
+            "isNameObsolete": false
+        },
+        "ExperienceResource__Tracking_de_Pedidos_Clientes1/variations/defaultThemeNavigationMenu2ComponentProperties.json": {
+            "serverRevisionCounter": 67421,
+            "lastRetrievedFromServer": null,
+            "memberType": "ExperienceResource",
+            "isNameObsolete": false
+        },
+        "ExperienceResource__Tracking_de_Pedidos_Clientes1/variations/defaultThemeNavigationMenu3ComponentProperties.json": {
+            "serverRevisionCounter": 67443,
+            "lastRetrievedFromServer": null,
+            "memberType": "ExperienceResource",
+            "isNameObsolete": false
+        }
+    }
+}

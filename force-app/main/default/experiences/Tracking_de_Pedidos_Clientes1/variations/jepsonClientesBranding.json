@@ -1,0 +1,13 @@
+{
+  "componentVariants" : [ {
+    "id" : "c6157710-6e1c-47d1-aee3-cb8bd760fc35",
+    "propertyOverrides" : {
+      "activeBrandingSetId" : "76bcb000-280c-4101-a1ed-2e105473596b"
+    },
+    "targetId" : "8b49594b-0624-41ee-a9fd-f9099816bda4",
+    "type" : "componentVariant"
+  } ],
+  "developerName" : "Jepson_Clientes_Branding",
+  "id" : "34fdcd26-3e6c-4b06-8c07-c05b635f3ccf",
+  "type" : "experienceVariation"
+}

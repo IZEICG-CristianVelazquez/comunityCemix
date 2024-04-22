@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "d1dd7772-8ac5-4fa6-861f-1c1db4109e69",
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "configurationTags" : [ ],
+  "devName" : "Inicio__c",
+  "id" : "57be804c-0b58-4f28-b8ab-dc818571f245",
+  "label" : "Inicio",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-inicio",
+  "type" : "route",
+  "urlPrefix" : "inicio"
+}

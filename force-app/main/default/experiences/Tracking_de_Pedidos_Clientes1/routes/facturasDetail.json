@@ -1,0 +1,12 @@
+{
+  "activeViewId" : null,
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "configurationTags" : [ ],
+  "devName" : "Facturas_Detail__c",
+  "id" : "fb3def80-21d8-4712-8ea1-051d6b5077a8",
+  "label" : "Facturas Detail",
+  "objectApiName" : "Facturas__c",
+  "routeType" : "detail-a0Y",
+  "type" : "route",
+  "urlPrefix" : "facturas"
+}

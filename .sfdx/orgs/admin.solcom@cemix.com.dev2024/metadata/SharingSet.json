@@ -1,0 +1,53 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0051A00000DdInGQAV",
+      "createdByName": "Soporte Salesforce",
+      "createdDate": "2021-04-08T03:27:54.000Z",
+      "fileName": "sharingSets/Transportistas_AQP.sharingSet",
+      "fullName": "Transportistas_AQP",
+      "id": "0H20y000000KzISCA0",
+      "lastModifiedById": "0051A00000DdInGQAV",
+      "lastModifiedByName": "Soporte Salesforce",
+      "lastModifiedDate": "2021-04-08T03:27:54.000Z",
+      "type": "SharingSet"
+    },
+    {
+      "createdById": "0051A00000DdInGQAV",
+      "createdByName": "Soporte Salesforce",
+      "createdDate": "2021-06-17T19:54:06.000Z",
+      "fileName": "sharingSets/Clientes.sharingSet",
+      "fullName": "Clientes",
+      "id": "0H20y000000KzIXCA0",
+      "lastModifiedById": "0051A00000DdInGQAV",
+      "lastModifiedByName": "Soporte Salesforce",
+      "lastModifiedDate": "2023-12-06T20:24:49.000Z",
+      "type": "SharingSet"
+    },
+    {
+      "createdById": "0051A00000DdInGQAV",
+      "createdByName": "Soporte Salesforce",
+      "createdDate": "2021-03-24T22:50:40.000Z",
+      "fileName": "sharingSets/Transportista.sharingSet",
+      "fullName": "Transportista",
+      "id": "0H20y000000KzINCA0",
+      "lastModifiedById": "0051A00000DdInGQAV",
+      "lastModifiedByName": "Soporte Salesforce",
+      "lastModifiedDate": "2021-03-24T22:50:40.000Z",
+      "type": "SharingSet"
+    },
+    {
+      "createdById": "0051A00000DdInGQAV",
+      "createdByName": "Soporte Salesforce",
+      "createdDate": "2023-10-02T16:16:49.000Z",
+      "fileName": "sharingSets/Portal_Directo.sharingSet",
+      "fullName": "Portal_Directo",
+      "id": "0H25c000000oLl9CAE",
+      "lastModifiedById": "0051A00000DdInGQAV",
+      "lastModifiedByName": "Soporte Salesforce",
+      "lastModifiedDate": "2023-10-02T16:17:25.000Z",
+      "type": "SharingSet"
+    }
+  ]
+}

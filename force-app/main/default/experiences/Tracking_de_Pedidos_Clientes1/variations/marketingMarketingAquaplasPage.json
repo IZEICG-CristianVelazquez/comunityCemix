@@ -1,0 +1,13 @@
+{
+  "componentVariants" : [ {
+    "id" : "ace5dd8a-4963-409d-a7ed-b73ffe9c4f9d",
+    "propertyOverrides" : {
+      "activeViewId" : "d017c535-74d3-4a02-9123-b759cd3a4036"
+    },
+    "targetId" : "23de4ec8-56e5-4faf-987a-0b4fe06df402",
+    "type" : "componentVariant"
+  } ],
+  "developerName" : "Marketing_Marketing_Aquaplas_Page",
+  "id" : "ed146260-0ce7-40dc-8ae1-f82a65a71649",
+  "type" : "experienceVariation"
+}
