@@ -1,5 +1,5 @@
 {
-    "serverMaxRevisionCounter": 67479,
+    "serverMaxRevisionCounter": 67598,
     "sourceMembers": {
         "RemoteSiteSetting__cemixqa": {
             "serverRevisionCounter": 18,
@@ -2984,8 +2984,8 @@
             "isNameObsolete": false
         },
         "ExperienceBundle__Tracking_de_Pedidos_Clientes1": {
-            "serverRevisionCounter": 67462,
-            "lastRetrievedFromServer": 67462,
+            "serverRevisionCounter": 67597,
+            "lastRetrievedFromServer": 67597,
             "memberType": "ExperienceBundle",
             "isNameObsolete": false
         },
@@ -3044,8 +3044,8 @@
             "isNameObsolete": false
         },
         "Network__Tracking de Pedidos - Clientes": {
-            "serverRevisionCounter": 67463,
-            "lastRetrievedFromServer": 67463,
+            "serverRevisionCounter": 67598,
+            "lastRetrievedFromServer": 67598,
             "memberType": "Network",
             "isNameObsolete": false
         },
@@ -3107,6 +3107,60 @@
             "serverRevisionCounter": 67443,
             "lastRetrievedFromServer": null,
             "memberType": "ExperienceResource",
+            "isNameObsolete": false
+        },
+        "ExperienceResource__Tracking_de_Pedidos_Clientes1/views/marketing.json": {
+            "serverRevisionCounter": 67554,
+            "lastRetrievedFromServer": null,
+            "memberType": "ExperienceResource",
+            "isNameObsolete": false
+        },
+        "Audience__X3_clientes": {
+            "serverRevisionCounter": 67487,
+            "lastRetrievedFromServer": null,
+            "memberType": "Audience",
+            "isNameObsolete": false
+        },
+        "Audience__Aquaplas": {
+            "serverRevisionCounter": 67496,
+            "lastRetrievedFromServer": null,
+            "memberType": "Audience",
+            "isNameObsolete": false
+        },
+        "ExperienceResource__Tracking_de_Pedidos_Clientes1/views/recordDetail.json": {
+            "serverRevisionCounter": 67589,
+            "lastRetrievedFromServer": null,
+            "memberType": "ExperienceResource",
+            "isNameObsolete": true
+        },
+        "ExperienceResource__Tracking_de_Pedidos_Clientes1/views/homeCemix.json": {
+            "serverRevisionCounter": 67539,
+            "lastRetrievedFromServer": null,
+            "memberType": "ExperienceResource",
+            "isNameObsolete": false
+        },
+        "ExperienceResource__Tracking_de_Pedidos_Clientes1/views/homeUniblock.json": {
+            "serverRevisionCounter": 67557,
+            "lastRetrievedFromServer": null,
+            "memberType": "ExperienceResource",
+            "isNameObsolete": false
+        },
+        "ExperienceResource__Tracking_de_Pedidos_Clientes1/views/marketingUniblock.json": {
+            "serverRevisionCounter": 67581,
+            "lastRetrievedFromServer": null,
+            "memberType": "ExperienceResource",
+            "isNameObsolete": false
+        },
+        "DocumentFolder__Documentos_comunidad": {
+            "serverRevisionCounter": 67567,
+            "lastRetrievedFromServer": null,
+            "memberType": "DocumentFolder",
+            "isNameObsolete": false
+        },
+        "CustomObject__User": {
+            "serverRevisionCounter": 67594,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObject",
             "isNameObsolete": false
         }
     }

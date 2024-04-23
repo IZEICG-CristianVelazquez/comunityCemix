@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "ecda60c6-a65a-4963-86ba-344d2a39452e",
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "configurationTags" : [ ],
+  "devName" : "Convenio_List__c",
+  "id" : "a3e5422e-1f22-4a62-ad7a-7ae3dca81c56",
+  "label" : "Convenio List",
+  "objectApiName" : "Convenios__c",
+  "routeType" : "list-a1V",
+  "type" : "route",
+  "urlPrefix" : "convenios"
+}

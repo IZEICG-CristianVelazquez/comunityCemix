@@ -1,0 +1,39 @@
+{
+  "appPageId" : "58e0efa7-7f0e-4862-8349-8e332e15f7e0",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "0e689374-b8a0-4ba9-8559-cfe3552baf81",
+  "label" : "Convenio Related List",
+  "regions" : [ {
+    "id" : "f996994a-fef1-4d54-9fef-39f1d91586af",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customTitle" : "",
+        "parentRecordId" : "{!recordId}",
+        "relatedListName" : "{!relationshipApiName}",
+        "showBreadCrumbs" : true,
+        "showCustomTitle" : false,
+        "showManualRefreshButton" : true,
+        "showRowNumbers" : true
+      },
+      "componentName" : "forceCommunity:relatedList",
+      "id" : "0382cf74-4612-420d-accf-614118bcc854",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "b47ee5ea-d860-434e-95ad-f616462f765d",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "47eb8d5c-c78c-497d-9090-5e837237eb01",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "relatedlist-a1V"
+}

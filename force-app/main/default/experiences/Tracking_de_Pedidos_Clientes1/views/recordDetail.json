@@ -13,15 +13,6 @@
       "componentAttributes" : {
         "recordId" : "{!recordId}"
       },
-      "componentName" : "c:updateConveniosComunity",
-      "id" : "46cb78bb-0837-4ce5-a70a-0bce7e6900e3",
-      "renderPriority" : "NEUTRAL",
-      "renditionMap" : { },
-      "type" : "component"
-    }, {
-      "componentAttributes" : {
-        "recordId" : "{!recordId}"
-      },
       "componentName" : "forceCommunity:recordHeadline",
       "id" : "d60675cf-9dd1-4bb7-b353-d0c8706b49fa",
       "renderPriority" : "NEUTRAL",

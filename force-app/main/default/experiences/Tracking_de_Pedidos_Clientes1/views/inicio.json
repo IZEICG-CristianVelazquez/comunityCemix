@@ -46,6 +46,7 @@
   }, {
     "components" : [ {
       "componentAttributes" : {
+        "customHeadTags" : "",
         "title" : "Home"
       },
       "componentName" : "forceCommunity:seoAssistant",
